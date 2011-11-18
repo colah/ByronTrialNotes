@@ -2,30 +2,30 @@
 Byron's Trial, Day 7 (Week 2)
 =============================
 
-* J: It would be nice if P&D could anticipate needing to talk in advance...
-* P: There are a couple of things in the evidence that should not be a matter of public record. I'm being cryptic intentionally, and I'll let my friend elaborate. We are both in agreement that it should not go in the public domain. So we made need to make a minor edit... If we can locate it in the transcript, police video service can edit the video. And the transcript should be black markder redacted.
-* D gives page number to edit out.
-* J looks at it to make sure that there will not be a problem.
+* Judge: It would be nice if P&Defense could anticipate needing to talk in advance...
+* Prosecution: There are a couple of things in the evidence that should not be a matter of public record. I'm being cryptic intentionally, and I'll let my friend elaborate. We are both in agreement that it should not go in the public domain. So we made need to make a minor edit... If we can locate it in the transcript, police video service can edit the video. And the transcript should be black markder redacted.
+* Defense gives page number to edit out.
+* Judge looks at it to make sure that there will not be a problem.
 
 (15 minute break that takes much longer -- while they redact film?)
 
-* P intends to call witnesses Sergeant Penton (arrested Mr. Sonne) officer John Donlaw (sp?) out of order... Six witnesses.
+* Prosecution intends to call witnesses Sergeant Penton (arrested Mr. Sonne) officer John Donlaw (sp?) out of order... Six witnesses.
 
   * Mazared Maadenian will speak
   * Detective Shane-Hill
 
-* D within this context, there is no objection to torontogoat's tweets being Mr. Sonne
+* Defense within this context, there is no objection to torontogoat's tweets being Mr. Sonne
 
 * Maadenian sworn in
 
-* J: When was the will-say prepared?
+* Judge: When was the will-say prepared?
    * Monday
-* J: You looked at your notes?
+* Judge: You looked at your notes?
    * Yes.
-* J: If there is no object to D, you are free to refer to your notes.
-* D: No issue.
-* J: Please tell us if you refer to your notes.
-* P: What unit?
+* Judge: If there is no object to D, you are free to refer to your notes.
+* Defense: No issue.
+* Judge: Please tell us if you refer to your notes.
+* Prosecution: What unit?
  * Detective
 * What in June?
  * 
@@ -50,15 +50,15 @@ Byron's Trial, Day 7 (Week 2)
  * Did not have any part after his arrest, did not give further notice.
  * Did not know who took over.
 
-P: No further question.
-D: Is it detective or sergeant.
+Prosecution: No further question.
+Defense: Is it detective or sergeant.
  * Detective.
- * D: Concern about explosives in the house before the warrant was executed. you were made of this before?
+ * Defense: Concern about explosives in the house before the warrant was executed. you were made of this before?
    * Not sure if I was made aware after or before, but we were concerned... because of things we found on the internet
  * Concerned about the kinds of 
  * Definitely had concerns prior.
- * D clarifies many times.
- * D: Briefings?
+ * Defense clarifies many times.
+ * Defense: Briefings?
    * Not part of the warrant team.
  * But as part of surveillance team?
    * ..
@@ -305,8 +305,8 @@ Crown's Next witness will be Detective Shanehill
 * If you're not worried about using that evidence in court, you're not concerned about following the same procedures that one would need to follow if you were...
   * 
 * It is your experience that once someone speaks to a lawyer, they tend to not be as willing to answer questions.
-  * P objects to question
-  * J allows
+  * Prosecution objects to question
+  * Judge allows
   * Kevin doesn't follow up
 * Don't tell him about his right to speak to a lawyer...
   * Yes.
@@ -355,7 +355,7 @@ Crown's Next witness will be Detective Shanehill
   * Yes.
 * No more questions...
 
-P again
+Prosecution again
 * Immediately ask about safety concern after hearing?
   * Yes.
 * Safety concern was an overriding motivator?
@@ -428,7 +428,8 @@ Next witness is  Detective Patrick Garrow.
   * Any suggestions that if he cooperated with you that might benefit him in the things he is being investigated for.
     * I don't recall saying that nor do I recall Shanehill...
 
-(Kevin!)
+(Kevin again!)
+
 * Two different notes. One is the confidential source file and one is the file that gets publicly filed. Normally the confidential source file normally wouldn't be shared. You'd assert some sort of confidentiality.
 * You build up a trusting relationship with your trusting with them?
    * Yes.
@@ -479,7 +480,8 @@ Next witness is  Detective Patrick Garrow.
 * Did you tell him that you're not interested in him as a informant?
   * No, I don't ever have that conversation.
 
-P again
+Prosecution again
+
 * Was the commitment to not use what he told you to investigate him contingent on him becoming an informant?
  * I don't understand
 * Did you consider that if he wasn't good as an informant, you might use what he said as evidence against him?
@@ -487,6 +489,7 @@ P again
 
 
 Tam Bui sworn in.
+
 * He may look at his notes. It would be appreciated if he told us if he looked at something else.
 * Detective Sargent.
 * Asian organized crime joint task force.
@@ -530,12 +533,12 @@ Tam Bui sworn in.
 
 " I can't help what other people think. You're just doing your job and I'm just living my life. I'm trying to get the licenses and follow the rules to ...."
 
-"BUt combined those could make a bomb? Yeah, but so could your car and a match."
+"But combined those could make a bomb? Yeah, but so could your car and a match."
 
 Bui tries to get Byron to admit to wanting to make a bomb many times.
 
 Bui claims that Byron earlier told him that he'd admitted to having a detonator, when the video clearly show that he didn't.
 
-Movie stopping at 43:46.
+Movie stops at 43:46.
 
 

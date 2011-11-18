@@ -6,9 +6,9 @@ Byron's Trial, Day 8 (Week 2)
 
 (Doctor Anderson -- Prosecution Expert -- will fly in next week, but we don't seem to have time...)
 
-* P: Bui brought a mistake made yesterday to my attention. 
+* Prosecution: Bui brought a mistake made yesterday to my attention. 
   * Bui: I'm well aware of the secondary caution. I misspoke, and I realize that there are risks to presenting from memory. I think those are mitigated by them speaking to counsel. 
-* P: Was this something I took you aside about or is it something you came to me about?
+* Prosecution: Was this something I took you aside about or is it something you came to me about?
   * I came to you.
 
 
@@ -53,12 +53,12 @@ Byron's Trial, Day 8 (Week 2)
 
 (Extremely boring spelling correction in document for 10 minutes)
 
-* P: Does the video fairly depict a portion of your conversation with Mr. Sonne?
+* Prosecution: Does the video fairly depict a portion of your conversation with Mr. Sonne?
    * Yes.
-* P asks Bui to identify a bunch of pictures.
+* Prosecution asks Bui to identify a bunch of pictures.
    * The ones he shows Byron in interview.
 
-* P: The statement seems to be cut off at some point?
+* Prosecution: The statement seems to be cut off at some point?
    * Facility was not optimal for recording.
    * I didn't have my own equipment.
    * Went for about 20 minutes more.
@@ -119,7 +119,7 @@ New Witness: John Dumlaw (sp?)
 * Later escorted him to the booking area. 
 * No further interaction
 
-D crossexamines him.
+Defense crossexamines him.
 
 * Tasked at 21:50 to join in.
  * Not part of an existing plan.
@@ -149,7 +149,7 @@ D crossexamines him.
   * It's clear that, if he asks to speak to his lawyer, he understands.
 * No notation about his understanding of the caution.
 
-P again
+Prosecution again
 
 * If you had felt that Detective Bui had missed something important, you would have stepped in, correct?
   * Yes.
@@ -158,27 +158,27 @@ P again
 
 (Judge comments on declining audience numbers -- I think this is the correct location in my notes, but I'm adding this a little bit after the comment so there's uncertainty )
 
-* D: Today was the first day the we heard about Dr. Anderson's testimony. So there's an issue of ...
-* P: We gave full disclosure...
+* Defense: Today was the first day the we heard about Dr. Anderson's testimony. So there's an issue of ...
+* Prosecution: We gave full disclosure...
   * Toronto life article gives explanations for certain chemicals and we want to talk to Dr. Anderson
     * Months ago
-* J: P should have disclosed intent to interview him about this...
+* Judge: Prosecution should have disclosed intent to interview him about this...
   * Effects time estimates. You should have told earlier.
-  * D may have to get evidence.
-* J: In theory we could adjourn trial to a later date, but that's in no ones interest.
-* J: This shouldn't happen.
-* J is having surgery and can't move it after this...
-* D: There is another area that P intends to question about, a pirate bay document, and I don't know if there are any others. It is problematic for us. The criminal code is clear about our right to notice about expert witness.
-* J: One possible remedy is adjournment.
-* D: we may need to go weeks 4, 5, and 6 in chunks.
-* J: I'm on the criminal team until 2012. It might be better from a management perspective if we 
+  * Defense may have to get evidence.
+* Judge: In theory we could adjourn trial to a later date, but that's in no ones interest.
+* Judge: This shouldn't happen.
+* Judge is having surgery and can't move it after this...
+* Defense: There is another area that Prosecution intends to question about, a pirate bay document, and I don't know if there are any others. It is problematic for us. The criminal code is clear about our right to notice about expert witness.
+* Judge: One possible remedy is adjournment.
+* Defense: we may need to go weeks 4, 5, and 6 in chunks.
+* Judge: I'm on the criminal team until 2012. It might be better from a management perspective if we 
 
-* P: We have discovered a video of Mr. Sonne being given his rights when he was arrested. We didn't find out about it today.
-* J: Let's get him on the stand. We expect 
+* Prosecution: We have discovered a video of Mr. Sonne being given his rights when he was arrested. We didn't find out about it today.
+* Judge: Let's get him on the stand. We expect 
 
 * Bui is back on the stand. 
 
-(Discussion of Blue Screen of Death by P and J)
+(Discussion of Blue Screen of Death by Prosecution and J)
 (Complaining about the amount of time it takes to start computer for several minutes)
 
 (Computer starts but we can't get the video to lay. )
