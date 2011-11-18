@@ -2,7 +2,7 @@
 Byron Sonne Trial Notes
 =======================
 
-If one is to believe the Prosecution and Police, Byron Sonne is a dangerous terrorist, though his exact plan seems to change ever week. I think it is fairly evident, to a science-clueful and unbiased person, that Byron, a [CISSP](http://en.wikipedia.org/wiki/Certified_Information_Systems_Security_Professional), licensed Private Investigator, and member of [hacklab.to](http://hacklab.to/), would be more accurately described as a science and security enthusiast.
+If one is to believe the Prosecution and Police, Byron Sonne is a dangerous terrorist, though his exact plan seems to change every week. I think it is fairly evident, to a science-clueful and unbiased person, that Byron, a [CISSP](http://en.wikipedia.org/wiki/Certified_Information_Systems_Security_Professional), licensed Private Investigator, and member of [hacklab.to](http://hacklab.to/), would be more accurately described as a science and security enthusiast.
 
 Take, for example, the explosives charge. It was initially claimed that the police had found an explosive and detonator at Byron's house. The detonator? A [thermocouple](http://en.wikipedia.org/wiki/Thermocouple), a component used to measure temperature -- essentially a thermometer. The explosive? This quickly became a chemistry lab that could be used to make an explosive.
 
