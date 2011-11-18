@@ -8,7 +8,7 @@ Byron's Trial, Day 2
 (Judge enters)
 (Crown asks about color photocopier)
 
-Crown was able to find the police car that Constable Simon used. Crown and Council came to the agreed fact that "One could not see the lights, readily." It could be seen, crown agrees, reflecting off houses.
+Crown was able to find the police car that Constable Simon used. Crown and Counsel came to the agreed fact that "One could not see the lights, readily." It could be seen, crown agrees, reflecting off houses.
 Defense found notes from Simon saying that he "had the male stand in front of the car".
 The Judge read the evidence of all the officers involved in the detention incident and Officer French's testimony.
 
@@ -16,23 +16,23 @@ Judge asks about exhibits. Crown still has them.
 
 Crown has put together a key to highlight certain sections of evidence. 
 
-Council is satisfied with disclosure and abandons motion.
+Counsel is satisfied with disclosure and abandons motion.
 
-Council will not pursue the motion to cross examine French. Council accepts augmented transcript: transcript and agreed statement. Crown will argue amplification based on it, and council will argue what arguments it needs to make.
+Counsel will not pursue the motion to cross examine French. Counsel accepts augmented transcript: transcript and agreed statement. Crown will argue amplification based on it, and counsel will argue what arguments it needs to make.
 
 Crown: Byron had already attracted open source attention which was traced back to his identity... But that was triggered by detention.
 
-Council: One other point, the evidentiary record on the computer search includes the testimony of Officer Roulet.
+Counsel: One other point, the evidentiary record on the computer search includes the testimony of Officer Roulet.
 
-Council: I will start Garofoli argument with the original warrant and then proceed forwards. The computer search can be argued separately.
+Counsel: I will start Garofoli argument with the original warrant and then proceed forwards. The computer search can be argued separately.
 
 Crown: We're not bringing arguments regarding the cottages and is abandoning them.
 
-Council: The cottages may be relevant to big picture 24(2) analysis, however.
+Counsel: The cottages may be relevant to big picture 24(2) analysis, however.
 
-Council: With that said, let's proceed to the Garofoli issue.
+Counsel: With that said, let's proceed to the Garofoli issue.
 
-Council: The warrant for Mr. Sonne's home is fatally flawed in a number of ways. Broad categories:
+Counsel: The warrant for Mr. Sonne's home is fatally flawed in a number of ways. Broad categories:
 
   * Once the process of excision occurs, taking into account what I submit are false or misleading conclusions, conjecture and speculation, even simple errors and emissions. Once all of those are accounted for, there remains no basis on which the issuing justice could have issued the warrant. My friend will argue that this is a piecemeal criticism, but when the document is largely misleading that is a constitutional problem.
     * Turning our attention to the actual warrant:
@@ -41,15 +41,15 @@ Council: The warrant for Mr. Sonne's home is fatally flawed in a number of ways.
      * The warrant can't be amplified, it's a court order ??
      * The offense in the warrant must be connected to the ones found in the search. This intended to avoid pretext searches.
      * There is, in my respectful submission, a recklessness to the judicial process. There is indifference to judicial process -- this should prevent the amplification of evidence, since there is case law regarding amplification not being used to avoid 
-     * Officer French was at least somewhat familiar with the warrant process. He is familiar with the fact that it should be Full, Fair, and Frank. He knows he needs to present counter-arguments. He understands that there will not be council to test his claims and that it is important to be fair to the issuing justice. It's clear that he had lots of time for the first one, though there may be a second one. He doesn't take the position that he was rushed, but that had time. He agreed that in his choice of language was designed to paint a picture to the judge -- that adds a degree of deliberation to the conduct.
+     * Officer French was at least somewhat familiar with the warrant process. He is familiar with the fact that it should be Full, Fair, and Frank. He knows he needs to present counter-arguments. He understands that there will not be counsel to test his claims and that it is important to be fair to the issuing justice. It's clear that he had lots of time for the first one, though there may be a second one. He doesn't take the position that he was rushed, but that had time. He agreed that in his choice of language was designed to paint a picture to the judge -- that adds a degree of deliberation to the conduct.
      * Now, Appendix A in the warrant, items to be searched for:
        * The items listed are important, not only in that they demonstrate a slipshot nature on the part of the officer, but that a lot of them are from a drug warrant. His refusal to admit this, when it is painfully obvious, is not only misleading to the Justice, but highlights his mind set and that he's a dangerous applicant. I submit that the obvious answer is that he should have admitted that is was boiler plate that slipped through.
        * Judge: Suppose I accept that, then..?
-       * Council: He should not be considered credible, because he was clearly being misleading. Amplification usually follows from assuming the good faith of witness.
+       * Counsel: He should not be considered credible, because he was clearly being misleading. Amplification usually follows from assuming the good faith of witness.
        * Judge: Should I conclude general recklessness based on a point by point analysis?
-       * Council: It doesn't taint everything, but it needs to be understood that he has been reckless. My friend might argue that on this particular point it's safe to conclude good faith. But I might argue that, because of his general recklessness...
+       * Counsel: It doesn't taint everything, but it needs to be understood that he has been reckless. My friend might argue that on this particular point it's safe to conclude good faith. But I might argue that, because of his general recklessness...
        * Judge: He does give an explanation...
-       * Council: "Dealers, people he was having dealings with". [Context: Warrant refers to Mr. Sonne's dealers. This is French's explanation. Council probably used this as an example when bringing up it being painfully obvious that it was content that slipped through, but I didn't write it down at the time.]  Combined with other language, it is clear what he meant. And he stands by this and clarifies this several times, even after a weekend break. 
+       * Counsel: "Dealers, people he was having dealings with". [Context: Warrant refers to Mr. Sonne's dealers. This is French's explanation. Counsel probably used this as an example when bringing up it being painfully obvious that it was content that slipped through, but I didn't write it down at the time.]  Combined with other language, it is clear what he meant. And he stands by this and clarifies this several times, even after a weekend break. 
        * The first item listed items regarding coconspirators and the second is items related to the ownership and living relationship 
        * Other items: bolts, video cameras, items to be used for disruptive purposes, Items to be used to disrupt communication (in particular, an item called a waveguide).
      * The "Grounds to believe that the main offenses are being committed"
@@ -78,9 +78,9 @@ Council: The warrant for Mr. Sonne's home is fatally flawed in a number of ways.
          * "Post picture of the pass that would get them behind the G20 line" is misleading. French continued that he believes it related to getting into the secure zone. 
                * actually : "Could someone who is a resident or works in the G20 post a picture of the pass that will get them behind the line"
                * May not be a home run, but its a hit.
-               * Council had French talk about the zones. Surely, it would have been useful for Justice Marshell to know that there was an outer perimeter zone (which was open to everyone who lived or worked inside) and two interior ones.
+               * Counsel had French talk about the zones. Surely, it would have been useful for Justice Marshell to know that there was an outer perimeter zone (which was open to everyone who lived or worked inside) and two interior ones.
                * Judge: He may not have known about the different security zones.
-               * Council: If he hadn't known, I'd submit that as someone investigating someone he believes was trying to forge passes, ought to have known. He was certainly around people who would have known.
+               * Counsel: If he hadn't known, I'd submit that as someone investigating someone he believes was trying to forge passes, ought to have known. He was certainly around people who would have known.
                * Judge: Not full fair frank, but possibly not out right misleading (approximate wording)
           * Affidavit talks about pictures of photos on surveillance camera
           * On page 9, this is describes it as, in his opinion, "intelligence gathering".

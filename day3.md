@@ -39,7 +39,7 @@ Byron's Trial, Day 3
 Warrant 2
 ---------
 
-* Mr. Sonne's statements (made without council right) is conceded as a charter violation by the Crown and they will not use them. Thus, the cottage searches are excised. The defense still intends to use it in any 24(2) analysis.
+* Mr. Sonne's statements (made without counsel right) is conceded as a charter violation by the Crown and they will not use them. Thus, the cottage searches are excised. The defense still intends to use it in any 24(2) analysis.
 * French claims they found explosives
    * They actually found some chemicals that could be combined to make explosives
 * There was an object (a thermocouple) that they believed to be detonator

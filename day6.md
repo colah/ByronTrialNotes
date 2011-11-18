@@ -10,7 +10,7 @@ Byron's Trial, Day 6 (Week 2)
 * Prosecution: If Defense and prosecution could talk, we may be able to thin things out.
 * Judge comments on how optimistic 
 
-* Judge: Yesterday it became apparent there was a misunderstanding between council and the court. ... No releif was sought in the alternative of quashing. I determined that after excision in amplification, the issuing judge could have issued on the first offense. No further consideration was needed. Prosecution and Council seemed to understand that every point needed to be addressed. This was not mentioned in the warrant. 
+* Judge: Yesterday it became apparent there was a misunderstanding between counsel and the court. ... No releif was sought in the alternative of quashing. I determined that after excision in amplification, the issuing judge could have issued on the first offense. No further consideration was needed. Prosecution and Counsel seemed to understand that every point needed to be addressed. This was not mentioned in the warrant. 
 
 * Judge: I've concluded that both warrants stand with respect to the first charge. I will need to hear further on the second charge. Prosecution conceded that the third charge was not supported and I agree. I could hear further submissions on adding attempted mischeif. While I don't agree that Mr. Sonne needed to know who was involved, there was no evidence of an agreement with anyone -- so it should not have been issued. So there shouldn't have been grounds for searching for items related to co-conspirators. There were grounds to search for items relating to mischeif, wave guide... [Judge is going far too fast for me to get everything] If we need my full reasons, we will need to adjourn for some time.
 

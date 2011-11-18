@@ -2,14 +2,14 @@
 Byron's Trial, Day 7 (Week 2)
 =============================
 
-* J: It would be nice if P&D could aticipate needing to talk in advance...
+* J: It would be nice if P&D could anticipate needing to talk in advance...
 * P: There are a couple of things in the evidence that should not be a matter of public record. I'm being cryptic intentionally, and I'll let my friend elaborate. We are both in agreement that it should not go in the public domain. So we made need to make a minor edit... If we can locate it in the transcript, police video service can edit the video. And the transcript should be black markder redacted.
 * D gives page number to edit out.
 * J looks at it to make sure that there will not be a problem.
 
 (15 minute break that takes much longer -- while they redact film?)
 
-* P intends to call witnesses Sergant Penton (arrested Mr. Sonne) officer John Donlaw (sp?) out of order... Six witnesses.
+* P intends to call witnesses Sergeant Penton (arrested Mr. Sonne) officer John Donlaw (sp?) out of order... Six witnesses.
 
   * Mazared Maadenian will speak
   * Detective Shane-Hill
@@ -30,13 +30,13 @@ Byron's Trial, Day 7 (Week 2)
 * What in June?
  * 
 * Special duties
- * Intellignece.
+ * Intelligence.
 * Became aware of Sonne?
  * Yes.
 * Explain your duties with regard to Sonne and his home?
  * I was aware of Mr. Sonne leading up to it.
  * I was told that morning that it was possible the search warrant would be executed. 
- * Disussion of rules, superies.
+ * Discussion of rules, superies.
  * Normal day until 
  * Once the search warrant was signed, we were going to arrest Mr. Sonne.
  * He was supposed to be arrested before the search warrant was executed.
@@ -44,23 +44,23 @@ Byron's Trial, Day 7 (Week 2)
  * Not involved in arrest
  * Told Penton that under no circumstance was Mr. SOnne to have access to a phone.
   * Not specific to lawyers
-  * Because it is possible that explosives could be set of remotly.
+  * Because it is possible that explosives could be set of remotely.
   * Not sure about explosives going in.
   * Not time limited, but until further notice.
  * Did not have any part after his arrest, did not give further notice.
  * Did not know who took over.
 
 P: No further question.
-D: Is it detective or sergant.
+D: Is it detective or sergeant.
  * Detective.
- * D: Concern about explosives in the house before the warrant was exectued. you were made of this before?
+ * D: Concern about explosives in the house before the warrant was executed. you were made of this before?
    * Not sure if I was made aware after or before, but we were concerned... because of things we found on the internet
- * Concenred about the kinds of 
- * Definitly had concerns prior.
+ * Concerned about the kinds of 
+ * Definitely had concerns prior.
  * D clarifies many times.
  * D: Briefings?
    * Not part of the warrant team.
- * But as part of surveilance team?
+ * But as part of surveillance team?
    * ..
  * Did you read the ITO?
    * No.
@@ -68,7 +68,7 @@ D: Is it detective or sergant.
    * No.
  * Briefing on the day of the arrest?
    * Not part of that.
- * Directed on a surveilance issue that day?
+ * Directed on a surveillance issue that day?
  * Advised about potential of arrest?
    * Yes.
  * Charges?
@@ -101,7 +101,7 @@ D: Is it detective or sergant.
    * And because of concerns about destruction of evidence.
  * This is standard?
    * At least in the drug squad that I'm part of.
- * First step in seach warrant is to secure premise.
+ * First step in search warrant is to secure premise.
  * Triggered the arrest.
  * You know that the location is going to be secured, and know where Mr. Sonne is and once you arrest him you know he isn't there.
  * Presumably no one shows up at the house?
@@ -139,7 +139,7 @@ D: Is it detective or sergant.
 
 Prosecution
   * Was the explosives the only reason you restricted telephone use?
-    * It's standard, even when we don't know what they could find, for officer safety. And concerns about desctrucion of evidence.
+    * It's standard, even when we don't know what they could find, for officer safety. And concerns about destruction of evidence.
 
 
 Crown's Next witness will be Detective Shanehill
@@ -147,7 +147,7 @@ Crown's Next witness will be Detective Shanehill
  * Sworn in.
  * TPD?
    * Yes.
- * Intelligene division?
+ * Intelligence division?
    * Yes.
  * How long?
    * 4 years?
@@ -168,15 +168,15 @@ Crown's Next witness will be Detective Shanehill
  * Why?
    * See about him become a source.
  * Introduce themselves to him and that they weren't interest in his current charges.
- * [leading question interupted by Judge]
- * Did Mr. Sone ask deatails about your role?
+ * [leading question interrupted by Judge]
+ * Did Mr. Sone ask details about your role?
    * No.
  * Did you make any assurances that the details wouldn't be used against him?
    * No.
  * How long was your first meeting?
    * 3 min.
  * Why?
-   * Just introdcution.
+   * Just introduction.
  * Later?
    * Yes later meeting at 1700. 
  * Why?
@@ -186,10 +186,10 @@ Crown's Next witness will be Detective Shanehill
  * How long?
    * Not sure?
  * Hours?
-   * No, definitly minutes.
+   * No, definitely minutes.
  * Does the conversation stray into anything Mr. Sonne might be facing charges with?
    * No.
- * Is there a thrid time you visit Mr. Sonne?
+ * Is there a third time you visit Mr. Sonne?
    * Yes.
  * Why?
    * Concerns about the items found at the residence.
@@ -201,7 +201,7 @@ Crown's Next witness will be Detective Shanehill
   * No.
  * Was he responsive to questions about safety?
   * Yes. He explained what things were.
- * Risk assements?
+ * Risk assessments?
   * Yes.
  * Was that helpful to officers on the scene?
   * Yes.
@@ -210,7 +210,7 @@ Crown's Next witness will be Detective Shanehill
  * Did you consider giving someone access to a lawyer?
   * I understand he already had been informed of his rights.
   * I wasn't investigating him.
- * Did you explain any further that you weren't inestigating him?
+ * Did you explain any further that you weren't investigating him?
   * No.
  * Did you get the impression he misunderstood your role?
   * No.
@@ -218,9 +218,9 @@ Crown's Next witness will be Detective Shanehill
   * Clarified my role.
  * It's beneficial that people understand your roles?
   * Yes.
- * Intelligent, sofisticated?
+ * Intelligent, sophisticated?
   * Yes, yes.
- * Intimdated by you?
+ * Intimidated by you?
   * No.
  * Did you get the impression he was telling you things he didn't want to ... That he was able to decide whether or not to answer questions?
   * He answered all our questions.
@@ -232,7 +232,7 @@ Crown's Next witness will be Detective Shanehill
  * What was the result?
   * Mr. Sonne conveyed that he didn't have information related to our interests.
  
-* Kevin corssexamins!
+* Kevin corssexamines!
   
 * Notes, refer to Garrow notes. 
   * Yes.
@@ -242,12 +242,12 @@ Crown's Next witness will be Detective Shanehill
   * No.
 * Did you see any problems?
   * No.
-* If I show you the notes, woudl that be helfpull?
+* If I show you the notes, woudl that be helpful?
   * Yes.
-* [clafifies that he isn't specifically investigating]
+* [clarifies that he isn't specifically investigating]
 * Important to have a relationship and trust?
  * Yes.
-* Occupational hazzard
+* Occupational hazard
  * yes.
 * So part of your job is to keep them interested. 
  * ...
@@ -258,7 +258,7 @@ Crown's Next witness will be Detective Shanehill
  * There's a process for that.
 * So when your talking to a potential source, you'd tell them that you could help them?
  * No.
-* Give buisness card?
+* Give business card?
   * Contact info
 * But nothing about your door being open, etc...
   * No.
@@ -281,7 +281,7 @@ Crown's Next witness will be Detective Shanehill
   * No.
 * But you might have implied it from the G20 officers?
   * Yes.
-* Do you remember seeing photos on a pciture?
+* Do you remember seeing photos on a picture?
   * Yes.
 * Twitter?
   * I don't know.
@@ -300,11 +300,11 @@ Crown's Next witness will be Detective Shanehill
  * .. yes
 * You understand that there is a duty to hold off on questioning...
  * ...
-* You weren't worried about the admisability of evidence. 
+* You weren't worried about the admissibility of evidence. 
   * Yes.
 * If you're not worried about using that evidence in court, you're not concerned about following the same procedures that one would need to follow if you were...
   * 
-* It is your experience that once someone speeks to a lawyer, they tend to not be as willing to answer questions.
+* It is your experience that once someone speaks to a lawyer, they tend to not be as willing to answer questions.
   * P objects to question
   * J allows
   * Kevin doesn't follow up
@@ -321,7 +321,7 @@ Crown's Next witness will be Detective Shanehill
   * Yes
 * Tell him about confidentiality.
   * I tell him that the information he gives is confidential
-* Confidentiatlity is an important part of being a confidential informant.
+* Confidentiality is an important part of being a confidential informant.
   * Yes.
 * He was OK with talking to you after you tell him that?
   * He continued talking...
@@ -340,7 +340,7 @@ Crown's Next witness will be Detective Shanehill
   * Yes.
 * Asked to go in there and talk?
   * Yes.
-* Don't say you can't do that because of your confidentail relationship?
+* Don't say you can't do that because of your confidential relationship?
   * I didn't have that conversation.
 * You didn't tell Mr. Sonne that your role has changed.
   * Yes.
@@ -384,7 +384,7 @@ Next witness is  Detective Patrick Garrow.
 * Not there to take part in the investigation of him? No.
 * What time?
   * quarter to two.
-* Spoke to Sergant Penton
+* Spoke to Sergeant Penton
 * Went to see him right away.
 * First time I met him, I introduced myself, asked who he was to make sure he was the correct person, and asked if he wanted anything and got him a drink.
 * Went on computer system to gather information.
@@ -393,12 +393,12 @@ Next witness is  Detective Patrick Garrow.
 * At 4:05 we went to see him, and Shanehill was introduced and I reintroduced myself. We went to see if it was worth our time to talk to him or if he'd say to fly a kite.
 * Next visit we explained our role and that we weren't investigating him.
   * Shanehill asked him about background, making things, etc
-  * Sonne talked aobut making things.
+  * Sonne talked about making things.
   * Detective Hill asked what he liked to build.
     * Discussed a microwave control pannel to make waves
     * bought capacitor ( question mark because he didn't know what one was) for a crusher
     * rocket fuel
-    * electrocell to break down salts.
+    * electro-cell to break down salts.
     * No understanding of what any of these are.
     * Potato Gun
     * Reverse engineer, just a hobby, he likes to tinker
@@ -406,7 +406,7 @@ Next witness is  Detective Patrick Garrow.
     * Cottages (note: where cottages? Tiny township)
     * Didn't drink, didn't do drugs.
     * He'd heard stuff in the news but not involved in any protest groups.
-    * He's involved in social groups including hacklab.to, toronto area security clutch (sp? in notes), surveilance club .ca ( a face group book he was involved in -- corrected to facebook group)
+    * He's involved in social groups including hacklab.to, Toronto area security clutch (sp? in notes), surveillance club .ca ( a face group book he was involved in -- corrected to facebook group)
     * Asked about hacklab, which he gave address of...
     * Anyone talking about the G20? Discusses one location where people are meeting. Convergence Space
     * Anyone planning violence? Not that he knows. A few specific examples.
@@ -415,13 +415,13 @@ Next witness is  Detective Patrick Garrow.
   * Never told him that he didn't need to answer questions.
   * Were you concerned that Mr. Sonne was intimidated, frightened, or unable to refuse to respond?
     * That's a question you should ask Mr. Sonne. That wasn't the impression I got.
-  * Was he a cadidate for an informant?
-   * Didn't know about those groups, so he investiaged hacklab, surveilance group
+  * Was he a candidate for an informant?
+   * Didn't know about those groups, so he investigated hacklab, surveillance group
    * Was going to ask if there were any people of interest in those groups.
    * Researched those groups on a computer.
    * Left to get food shortly after.
   * You've been in intelligence for how long?
-  * Is it common practice to give someone their rights to council before speaking? 
+  * Is it common practice to give someone their rights to counsel before speaking? 
     * No.
   * This was a good faith questioning.
   * Didn't follow up on questions relating to potato cannon.
@@ -429,7 +429,7 @@ Next witness is  Detective Patrick Garrow.
     * I don't recall saying that nor do I recall Shanehill...
 
 (Kevin!)
-* Two different notes. One is the confidential source file and one is the file that gets publically filed. Normally the confidential source file normally wouldn't be shared. You'd assert some sort of confidentiality.
+* Two different notes. One is the confidential source file and one is the file that gets publicly filed. Normally the confidential source file normally wouldn't be shared. You'd assert some sort of confidentiality.
 * You build up a trusting relationship with your trusting with them?
    * Yes.
 * Cut some paper?
@@ -445,7 +445,7 @@ Next witness is  Detective Patrick Garrow.
 * Did you talk to [names]? Some he did.
 * Did Penton tell you he was the one behind the arrest?
   * No.
-* Did he tell you that Mr. SOnne hadn't spoken to a laywer. 
+* Did he tell you that Mr. Sonne hadn't spoken to a lawyer. 
    * Not that I recall.
 * Did he tell you that he had orders not to share to let him speak.
   * No?
@@ -455,7 +455,7 @@ Next witness is  Detective Patrick Garrow.
 
 * Doesn't know who French is?
 * Don't recall seeing French.
-* You've taken seminars on law. You know about the right to council when someone is under arrest? Yes.
+* You've taken seminars on law. You know about the right to counsel when someone is under arrest? Yes.
 * There's a duty to make sure they know about their rights?
   * Yes.
 * There's a duty to facilitate contact.
@@ -468,12 +468,12 @@ Next witness is  Detective Patrick Garrow.
 * In your view it is not required to provide them their rights as one would usually need to if the evidence was going to go into a courtroom?
    * That's right.
 * No one tried to warn you.
-* In your view, it is not necessary to give him his right to council.
+* In your view, it is not necessary to give him his right to counsel.
 * Detective Hill did the introduction to being a confidential source.
-* Wasn't going to be used to inesitage you.
+* Wasn't going to be used to investigate you.
 * Did you talk to other people around the station.
-* Did shanehill talk to him about the Internet, things on Tiwtter.
-* Shanehill just asked him, would you like to build (seveal things)...
+* Did Shanehill talk to him about the Internet, things on Twitter.
+* Shanehill just asked him, would you like to build (several things)...
 * Any knowledge of G20 or G8?
 * Not seeing much value as a confidential source.
 * Did you tell him that you're not interested in him as a informant?
@@ -487,14 +487,14 @@ P again
 
 
 Tam Bui sworn in.
-* He may look at his notes. It would be appreciated if he tolds us if he looked at something else.
-* Detecive Sergant.
+* He may look at his notes. It would be appreciated if he told us if he looked at something else.
+* Detective Sargent.
 * Asian organized crime joint task force.
 * We didn't want to be split up, so we offered to take on criminal cases as they came on.
 
 * I wanted to be brought up to speed on Mr. Sonne.
 * A variety of supervisors who were at the crime scene.
-* I learned that he hadn't received his right to council.
+* I learned that he hadn't received his right to counsel.
 * At some point do you want to see Mr. Sonne?
   * I wanted to deal with other things
     * A woman had been detained and then released
@@ -504,7 +504,7 @@ Tam Bui sworn in.
   * He's awake, alert, clothed.
 * I go through the charges and provide his charter 10(a) and 10(b) warning.
 * He responded that he understood this, and asked for a lawyer.
-* I faciliated his contact with a lawyer, Kevin Tilly, at 11:56.
+* I facilitated his contact with a lawyer, Kevin Tilly, at 11:56.
 * Next meeting:
 * Filmed. 
   * At DNA room
@@ -516,9 +516,9 @@ Tam Bui sworn in.
 * Loud noise in the backgrounds...
 * Byron points out how long ago these are.
 * Byron openly answers a number of questions and points out how long a go they are.
-* You established the Fickr page 
+* You established the Flickr page 
 * "What was your intent?"
-* "Why would I tell you? How do I know you aren't going to go and burry in detention, in jail for a year or two?"
+* "Why would I tell you? How do I know you aren't going to go and bury me in detention, in jail for a year or two?"
 * "I'm a security professional... "
 * " Bui: I've seen a youtube video of someone use a wave cannon to change the time on a cellphone"
 * "Bui: Different lengths result in different wavelengths which would result in different, in effect, powers"
@@ -534,8 +534,8 @@ Tam Bui sworn in.
 
 Bui tries to get Byron to admit to wanting to make a bomb many times.
 
-Bui claims that Byron earlier told him that he'd admited to having a detonator, when the video clearly show that he didn't.
+Bui claims that Byron earlier told him that he'd admitted to having a detonator, when the video clearly show that he didn't.
 
-Stopping at 43:46.
+Movie stopping at 43:46.
 
 

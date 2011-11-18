@@ -61,7 +61,7 @@ about a legal hotline and that he doesn't have to identify unless
 charged under a particular terrorism related section of the criminal
 code.
 * Prosecution: Once ruse started, Mr. Sonne was detained and had the
-right to council.
+right to counsel.
 * Defense: Officer made a "don't move gesture" with his hand
 * The conversation implies dissatisfaction with Mr. Sonne's answers
 (in context: refusal to identify) and that it wasn't ending there.

@@ -34,7 +34,7 @@ Byron's Trial, Day 4
      * He goes on to say that he can't asses it.
    * par 11, "projectiles that could be fired from the improvised weapon"
      * Judge: Those are clearly dry wall plugs.
-       * Prosectuion: Clear to Mr DiLuca, not to me.
+       * Prosectuion: Clear to Mr Di Luca, not to me.
         * Judge: Clear to anyone that watch home improvement shows.
      * He's only stating that he believes that these could be fired.
        * Judge: He admitted in cross-examination that he had no reason for the belief.
@@ -102,7 +102,7 @@ Byron's Trial, Day 4
 (Lunch)
 
 * Waveguide:
-  * The Council has suggested that the blog was concealed nefariously. 
+  * The Counsel has suggested that the blog was concealed nefariously. 
      * He's citing the bog, he just doesn't realize it. The blog is the only source of information. 
   * Judge: The picture came from the blog, not Flickr
   * He simply makes a mistake with the blog. His desk was probably as cluttered as my desk.
