@@ -7,6 +7,7 @@ If one is to believe the Prosecution and Police, Byron Sonne is a dangerous terr
 Take, for example, the explosives charge. It was initially claimed that the police had found an explosive and detonator at Byron's house. The detonator? A [thermocouple](http://en.wikipedia.org/wiki/Thermocouple), a component used to measure temperature -- essentially a thermometer. The explosive? This quickly became a chemistry lab that could be used to make an explosive.
 
 > Bui: "But combined those could make a bomb?"
+>
 > Byron: "Yeah, but so could your car and a match."
 
 Another example is Byron's Waveguide, described as the key motivation for the search on Byron's house. Officer French, the author of the affidavit for the search, wrote and later affirmed in testimony that "it can destroy radio waves permanently" -- in the warrant, he went into more detail, explaining that this would be accomplished by it sending out sound waves which would then destroy the radio waves. I find it deeply disturbing that an officer seems to have genuinely believed -- and was successful at getting a warrant by asserting! -- that Byron was going to do what one could describe as deleting part of the electromagnetic spectrum.
