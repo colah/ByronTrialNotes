@@ -2,8 +2,8 @@
 Byron's Trial, Day 7 (Week 2)
 =============================
 
-* Judge: It would be nice if P&Defense could anticipate needing to talk in advance...
-* Prosecution: There are a couple of things in the evidence that should not be a matter of public record. I'm being cryptic intentionally, and I'll let my friend elaborate. We are both in agreement that it should not go in the public domain. So we made need to make a minor edit... If we can locate it in the transcript, police video service can edit the video. And the transcript should be black markder redacted.
+* Judge: It would be nice if Prosecution & Defense could anticipate needing to talk in advance...
+* Prosecution: There are a couple of things in the evidence that should not be a matter of public record. I'm being cryptic intentionally, and I'll let my friend elaborate. We are both in agreement that it should not go in the public domain. So we made need to make a minor edit... If we can locate it in the transcript, police video service can edit the video. And the transcript should be black marker redacted.
 * Defense gives page number to edit out.
 * Judge looks at it to make sure that there will not be a problem.
 
@@ -51,6 +51,7 @@ Byron's Trial, Day 7 (Week 2)
  * Did not know who took over.
 
 Prosecution: No further question.
+
 Defense: Is it detective or sergeant.
  * Detective.
  * Defense: Concern about explosives in the house before the warrant was executed. you were made of this before?
@@ -137,7 +138,8 @@ Defense: Is it detective or sergeant.
  * Because he was the arresting officer?
    * Or someone under his command.
 
-Prosecution
+Prosecution:
+
   * Was the explosives the only reason you restricted telephone use?
     * It's standard, even when we don't know what they could find, for officer safety. And concerns about destruction of evidence.
 
@@ -502,14 +504,15 @@ Tam Bui sworn in.
   * I wanted to deal with other things
     * A woman had been detained and then released
     * Once I was comfortable that the scenes are had been secured or were being secured and I knew about the basis of a new charge of explosives, I went to see Mr. Sonne.
-* I go and introduce myself for the first time to Mr. SOnne.
+* I go and introduce myself for the first time to Mr. Sonne.
 * How does he physically present to you?
   * He's awake, alert, clothed.
 * I go through the charges and provide his charter 10(a) and 10(b) warning.
 * He responded that he understood this, and asked for a lawyer.
 * I facilitated his contact with a lawyer, Kevin Tilly, at 11:56.
+
 * Next meeting:
-* Filmed. 
+* Filmed. [I took notes while watching the video, and they follow, but the Star has [posted the video on line](http://v.thestar.com/services/player/bcpid1239676864001?bckey=AQ~~,AAAAuO4KaJE~,gatFNwSKdGAvsFcRjITAe-nLHsUU3Sil&bctid=1281770020001) and you can watch it yourself.]
   * At DNA room
   * Bui interviewing Byron Sonne.
   
