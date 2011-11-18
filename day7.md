@@ -53,6 +53,7 @@ Byron's Trial, Day 7 (Week 2)
 Prosecution: No further question.
 
 Defense: Is it detective or sergeant.
+
  * Detective.
  * Defense: Concern about explosives in the house before the warrant was executed. you were made of this before?
    * Not sure if I was made aware after or before, but we were concerned... because of things we found on the internet
