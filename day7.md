@@ -16,6 +16,9 @@ Byron's Trial, Day 7 (Week 2)
 
 * Defense within this context, there is no objection to torontogoat's tweets being Mr. Sonne
 
+Mazared Maadenian
+------------------
+
 * Maadenian sworn in
 
 * Judge: When was the will-say prepared?
@@ -52,7 +55,7 @@ Byron's Trial, Day 7 (Week 2)
 
 Prosecution: No further question.
 
-Defense: Is it detective or sergeant.
+Defense: Is it detective or sergeant?
 
  * Detective.
  * Defense: Concern about explosives in the house before the warrant was executed. you were made of this before?
@@ -144,6 +147,9 @@ Prosecution:
   * Was the explosives the only reason you restricted telephone use?
     * It's standard, even when we don't know what they could find, for officer safety. And concerns about destruction of evidence.
 
+
+Detective Shanehill
+-------------------
 
 Crown's Next witness will be Detective Shanehill
 
@@ -369,6 +375,9 @@ Prosecution again
 
 (Lunch)
 
+Detective Patrick Garrow
+------------------------
+
 Next witness is  Detective Patrick Garrow. 
 
 * Sworn in
@@ -490,6 +499,9 @@ Prosecution again
 * Did you consider that if he wasn't good as an informant, you might use what he said as evidence against him?
   * No.
 
+
+Detective-Sargent Tam Bui
+-------------------------
 
 Tam Bui sworn in.
 

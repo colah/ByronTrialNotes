@@ -77,6 +77,9 @@ Byron's Trial, Day 8 (Week 2)
    * After a bail hearing.
 
 
+John Dumlaw
+-----------
+
 New Witness: John Dumlaw (sp?)
 
 * Interacted with Mr. Sonne at 13 division.
@@ -175,6 +178,10 @@ Prosecution again
 
 * Prosecution: We have discovered a video of Mr. Sonne being given his rights when he was arrested. We didn't find out about it today.
 * Judge: Let's get him on the stand. We expect 
+
+
+Tam Bui (Part 2)
+-----------------
 
 * Bui is back on the stand. 
 
