@@ -1,4 +1,3 @@
-
 Byron's Trial, Day 8 (Week 2)
 =============================
 
@@ -313,6 +312,7 @@ Sergeant Shane Penton
 ----------------------
 
 Witness: Sergeant Shane Penton
+
 * Primary response
 * Asked to assist in the arrest of Byron Sonne
   * Yes.
