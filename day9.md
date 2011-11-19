@@ -2,11 +2,11 @@
 Byron's Trial, Day 9 (Week 2)
 =============================
 
-(Can't paly video for half an hour)
+(Can't play video for half an hour)
 
 * Prosecution: There were technical difficulties with the video.
 * Judge: When did you get here to set it up?
-  * Prosecution: 9:15 ???
+* Prosecution: 9:15 ???
 * Judge: Next time get here at 8. We can't have this.
 
 * Defense: I lost the coin toss [and have to tell you instead of the prosecution]. We can't do it in this time...
@@ -15,9 +15,9 @@ Byron's Trial, Day 9 (Week 2)
 
 * Defense lists cases on severability:
   * Justice Casey Hill: M. N. M
-  * Brampton of the Ontatrio Court of appeal, 2001
+  * Brampton of the Ontario Court of appeal, 2001
   * Justice Furgeson 
-    * Jacobson, 2003 or 2004? (refered to in Hill)
+    * Jacobson, 2003 or 2004? (referred to in Hill)
     * Chung [corrected alter to Lee]
 
 * Judge: Could you give authorities for the warrant not issuing...
@@ -26,12 +26,12 @@ Byron's Trial, Day 9 (Week 2)
 * Judge: You raised a number of arguments that would have been fatal, but I didn't find any of them to be the case... 
 * Judge: If there is severance, things seem fairly clear.
 * Defense agrees to exchange memorandums about law by email.
-* Judge asks byron if he's OK with them discussing this by email.
-* Byron says yet.
+* Judge asks Byron if he's OK with them discussing this by email.
+* Byron says yes.
 
 * Judge makes timeline for next week...
 
-* Defense: If you agree that there were no grounds for search of the computers because of explosive we mgight be in agreement....
+* Defense: If you agree that there were no grounds for search of the computers because of explosive we might be in agreement....
 
 * Judge is frustrated by how late some of this is late, how she keeps needing to give rulings for them to proceed, risking hiatus and forcing her to work weekend.
 
@@ -117,7 +117,7 @@ Defense crosses Penton
 * Just arresting, no prior or later involvement in 
 * Originally just told that there was a count of mischief times 2, but later found out that 
 
-* Give right to counsel and then gave the second caution. Mean tht at first was the right to counsel.
+* Give right to counsel and then gave the second caution. Mean that at first was the right to counsel.
 * Clear Mr. Sonne wanted to talk to counsel.
 * Not practical in the car but you said you'd help once you get to the station.
 * Not aware of a plan to deny phone access.
@@ -231,7 +231,7 @@ Defense:
   * Yes.
 * Because they're better informed?
   * Yes.
-* Better to interogate when they know less?
+* Better to interrogate when they know less?
   * There's a tactic.
 * You want to control the information?
   * Yes.
@@ -253,11 +253,11 @@ Defense:
   * Yes.
 * Contacted? Went to 13 division?
   * Yes. Got there at 23:05
-* Heard a breifing involving...
-  * a briefing involving Sargant Chong, [2 names missed]
+* Heard a briefing involving...
+  * a briefing involving Sargent Chong, [2 names missed]
 * Detective Supermarang guarding crime scene?
   * Yes.
-* Lopez and Supermarang came from crime scene to 13 Divison?
+* Lopez and Supermarang came from crime scene to 13 Division?
   * Lopez wasn't at crime scene. 
   * Lopez arrived at the same as me
   * Supermarang later, after first briefing.
@@ -316,9 +316,9 @@ Defense:
 * Defense goes through all charges getting him to agree with them?
   * yes.
 * Potato Gun was a weapon?
-  * We saw the boards with holes and realised they must be weapons to do that sort of damage.
+  * We saw the boards with holes and realized they must be weapons to do that sort of damage.
   * Dissembled version...
-* Fifs walkthrough?
+* Fifs walk-through?
   * Possibly after midnight.
 * Learn about what French is doing? Detectives Hill & Garrow spoke to Mr. Sonne?
   * Yes, yes, spoke to Hill and Garrow.
@@ -346,17 +346,17 @@ Defense:
   * Yes.
 * For example, to make things informal or when things are done on a confidential basis.
   * Sure, amongst other reasons.
-* You want to avoid formality because it makes them less likely to speek to you?
-  * I don't want to use the word 'formality'. It's rappor building.
+* You want to avoid formality because it makes them less likely to speak to you?
+  * I don't want to use the word 'formality'. It's rapport building.
 * You give his rights from memory?
   * Yes.
 * Risks involved. You could make mistakes?
-  * I am confortable with it.
+  * I am comfortable with it.
 * I understand that you are comfortable, but you understand that a court may not be?
-  * I mittigate the risks by putting them in counsel.
+  * I mitigate the risks by putting them in counsel.
 * You might use more informal language?
   * Often people don't understand the wording at the back of the booklet. It's a piece of paper slipped in by a printing company...
-* Primary caution: people are usually familiar with this one from Amaracin TV.
+* Primary caution: people are usually familiar with this one from American TV.
 * Secondary caution often isn't as well understood by people, I suggest. They shouldn't be influenced by what other people have said to them or they've said.
   * Spirit is important.
 * Yesterday, you were persuaded that 
@@ -365,7 +365,7 @@ Defense:
 * [says it should be understood as a comment about charges...]
 * Said he wanted a lawyer.
   * Yes.
-* You made a mistake yesterday when you gave the seconary caution:
+* You made a mistake yesterday when you gave the secondary caution:
   * Yes.
 * And then my friend followed up asking about if you said anything about the interactions of other officers, and you said no.
   * Yes, but my notes say I gave the secondary caution.
@@ -389,7 +389,7 @@ Defense:
   * Impossible, no.
 * No notes in your notebook about discussion...
   * both cautions, do you understand? Answer yes.
-* In interview, you try to not be agresive, laugh, etc?
+* In interview, you try to not be abrasive, laugh, etc?
   * Yes.
 * Tone was light when you spoke about your right to counsel?
   * Not as light. Not light.
@@ -399,7 +399,7 @@ Defense:
 
 (break)
 
-(Judge: Distressed to hear that there was an instance of sexual assult [I couldn't catch context, other case])
+(Judge: Distressed to hear that there was an instance of sexual assault [I couldn't catch context, other case])
 
 (Judge: The trial will have to be bifurcated, short of a miracle)
 
@@ -418,7 +418,7 @@ Defense:
 * Would you agree that the most important to thing in your interaction with Mr. Sonne at the time was giving the right to counsel?
   * Yes.
 * Because you want evidence to be admissible?
-  * Also for the persons benifit.
+  * Also for the persons benefit.
 * Ever force someone to speak to counsel? 
   * No.
 * It was decided that you would be in charge of the case?
@@ -429,7 +429,7 @@ Defense:
   * No.
 * Unusual in such a serious case?
   * Yes.
-* No further contact unil the interview?
+* No further contact until the interview?
   * Yes.
 * When did the interview commence?
   * 12:20
@@ -452,7 +452,7 @@ Defense:
 * And you're aware of the significance?
   * Yes.
 * Were you aware of the time?
-  * I realised as I arrived...
+  * I realized as I arrived...
 * Did you bring him before a justice?
   * No.
 * You interviewed him instead of ...
@@ -467,7 +467,7 @@ Defense:
 * You weren't surprised when you heard about the way they interviewed Mr. Sonne.
   * No.
 * That they weren't concerned about Mr. Sonne's counsel rights?
-  * No. It's a different inteview source.
+  * No. It's a different interview source.
 * You understand that sometimes there are tradeoffs between advancing the investigations and using the information in court.
   * Yes.
 * Like Confidential Informants?
@@ -480,7 +480,7 @@ Defense:
 * Sometimes people testify for benefits and that's called an induced statement?
   * Yes, but not confidential informants...
 
-* Going back to the lack of concern that officers from the intelligence unit may have... Are you personally aware as to whether the investigation unit of the Toronto Police Service, ever employes a similar approach, a disregard to formalities, as regards search warrants...
+* Going back to the lack of concern that officers from the intelligence unit may have... Are you personally aware as to whether the investigation unit of the Toronto Police Service, ever employees a similar approach, a disregard to formalities, as regards search warrants...
 
 (Prosecution objects: witness not qualified to answer this question. It is hearsay.)
 
