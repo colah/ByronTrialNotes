@@ -1,4 +1,3 @@
-
 Byron's Trial, Day 9 (Week 2)
 =============================
 
@@ -157,7 +156,7 @@ Detective-Sargent Bui (Part 3)
 * "Man up and take responsibility for the stupid things you've done..."
 * "She had nothing to do with any of this!"
 * "The big issue is explosives..."
-* I don't know that she'll be able to get bale, given that comment.
+* I don't know that she'll be able to get bail, given that comment.
 * "If we knew when you started to buy chemicals and that the comment predated it... When?"
   * "April..."
     * "All of it?"
@@ -300,11 +299,13 @@ Defense:
 * You testified that there was HTMD, an explosive substance, at a bail hearing?
   * Yes.
 * When did you, as the officer in charge, that you understood that there was no explosive?
-  * I'd say 10 days, before we fully understood. 
-* Par 21 of document handed to Bui, last page (reviews paragraphs)
+  * I'd say 10 days, 2 weeks, before we fully understood.
+* I'm going to hand over your affidavit at the November 22 bail hearing? [Defense counsel hands Detective Tam Bui copy of his affidavit.]
+* Specifically may I direct you to paragraph 21.
+* Bui flips pages, last page (reviews paragraphs)
   * You swore in November that there was HTMD located...
 * Not the case?
-  * Yes.
+  * Yes. That was a mistake.
 * Trying to be true to the court?
   * Yes.
 * Would you agree that you might be back filling what you know now to the past?
