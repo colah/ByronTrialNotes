@@ -1,7 +1,5 @@
-Trial, Day #1
-=========
 
-*caveat lector*:
+**caveat lector**:
  * I am biased towards Byron, though I try to be objective. For the
 full picture, it would be ideal for you to read the notes of a person
 with the opposite bias
@@ -14,7 +12,13 @@ important to me.
  * I generally have to guess the spelling of things like names.
  * I have not been able to verify these notes against anything yet
 
-*My notes follow*
+**My notes follow**
+
+
+Trial, Day #1
+=========
+
+**Summary:** After some introductory dialogue, we move to the question of when Byron was first detained. Byron first came to their attention for taking pictures downtown shortly before the G20. The police put out a high-priority call for him and tracked him down. He refused to identify himself, so the police threatened to arrest him for jay-walking, though they admit he never did. Clearly, by the time they performed this 'ruse,' they were detaining him... But when did the detention begin?
 
 * Judge has read:
  * Notice of applications

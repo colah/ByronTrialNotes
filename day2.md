@@ -1,6 +1,8 @@
 Byron's Trial, Day 2
 ====================
 
+**Summary:** 
+
 (Lawyers are working on an agreed statement of fact. Judge is waiting outside courtroom for half hour or so.)
 (Byron says his lawyers are anticipating killing the search warrant today.)
 (Person with wrong number phones courtroom phone. Very loud ringing.)
