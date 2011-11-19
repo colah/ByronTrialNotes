@@ -10,7 +10,7 @@ Take, for example, the explosives charge. It was initially claimed that the poli
 >
 > Byron: "Yeah, but so could your car and a match."
 
-Another example is Byron's Waveguide, described as the key motivation for the search on Byron's house. Officer French, the author of the affidavit for the search, wrote and later affirmed in testimony that "it can destroy radio waves permanently" -- in the warrant, he went into more detail, explaining that this would be accomplished by it sending out sound waves which would then destroy the radio waves. I find it deeply disturbing that an officer seems to have genuinely believed -- and was successful at getting a warrant by asserting! -- that Byron was going to do what one could describe as deleting part of the electromagnetic spectrum.
+Another example is Byron's waveguide, described as the key motivation for the search on Byron's house. Officer French, the author of the affidavit for the search, seems to have believed that it could permanently destroy the radio waves -- in the warrant, he went into more detail, explaining that "This is used to send out sound waves that disrupts (sic) communication channels and can destroy them permanently". The shear scientific illiteracy in such claims being taken seriously is deeply disturbing.
 
 > "You're making a pie — a Byron-eat-shit pie — out of stuff that is entirely legal." -- Byron Sonne to Detective-Sergeant Bui
 
