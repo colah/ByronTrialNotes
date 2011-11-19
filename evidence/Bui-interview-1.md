@@ -10,7 +10,7 @@ Notes:
 
 ****************
 
-T: It's June 23rd at 12:22pm. And I'm at 2101 Finch down in the DNA room. And I'm going to try to conduct an interview with Byron Sonne for a 1972 08 08.
+T: It's June 23rd at 12:22pm. And I'm at 2101 Finch down in the DNA room. And I'm going to try to conduct an interview with Byron Sonne born 1972-08-08.
 
 [knock on the door]
 
@@ -252,7 +252,7 @@ B: No. It was basically all about... look at how many cameras are in our city an
 
 T: A lot of photographs of cameras Byron.
 
-B: Yeah, because you guys put up a lot of cameras and we need to make sure that you take them back down when they're don't like you promised.
+B: Yeah, because you guys put up a lot of cameras and we need to make sure that you take them back down when they're done like you promised.
 
 T: You also spoke quite a bit about a wave cannon. 
 
@@ -260,7 +260,7 @@ B: No. It's more of a wave guide. And that was how old? February 19th, 2009. Far
 
 T: Okay. What is... explain this to me.
 
-B: I am an electronics engineering technologies by trade and one of things I work in is also computer security and wireless and stuff like that so what I'm interested in doing is trying to find out how susceptible homemade gear and stuff was to basically jamming and stuff like that. So the best way to do that... you don't want to interfere with other peoples' stuff because that's not lawful use of the airwaves... was to do it in my garage with an old microwave oven which is on approximately the same frequency range as these... the network gear. And low-and-behold it had no effect.
+B: I am an electronics engineering technologist by trade and one of things I work in is also computer security and wireless and stuff like that so what I'm interested in doing is trying to find out how susceptible homemade gear and stuff was to basically jamming and stuff like that. So the best way to do that... you don't want to interfere with other peoples' stuff because that's not lawful use of the airwaves... was to do it in my garage with an old microwave oven which is on approximately the same frequency range as these... the network gear. And low-and-behold it had no effect.
 
 T: It had no effect on what?
 
@@ -356,7 +356,7 @@ B: Well I was wearing it but it wasn't... I wasn't actively listening to it.
 
 T: Do you actively monitor the police?
 
-B: Uh... not to much anymore. Sometimes it's just interesting to hear what goes on.
+B: Uh... not too much anymore. Sometimes it's just interesting to hear what goes on.
 
 T: Did you not post on your Flickr page that you had noticed a decrease in regular police communication? And your belief was that there is increased encryption and covert police activities in the downtown core?
 
@@ -390,7 +390,7 @@ T: And you would say that even an onion or a wax candle that's this one here, th
 
 B: Yes.
 
-T: So it cannot possible be classified as a firearm. Is that correct?
+T: So it cannot possibly be classified as a firearm. Is that correct?
 
 B: I believe so, that is my belief.
 
@@ -534,7 +534,7 @@ T: Okay.
 
 B: That is Gatorade.
 
-T: What's gator-age?
+T: What's Gatorade?
 
 B: In the bladder. Like a stock... sorry not a stock, like a sports drink.
 
@@ -552,7 +552,7 @@ B: I'm an amateur farmer.
 
 T: The map that includes the Huntsville area.
 
-B: Yes where my wife's family's cottage it, and not too far away from where my cottage is. Also areas where I go fishing.
+B: Yes where my wife's family's cottage is, and not too far away from where my cottage is. Also areas where I go fishing.
 
 T: And are there indications on that map of where the G8 event might be occurring?
 
@@ -688,7 +688,7 @@ B: Yes.
 
 T: You have about ten or eleven passes here.
 
-B: Yes sir I've attended a number of conferences based on computer security bother here in Toronto as well as in Las Vegas... as well as Washington DC.
+B: Yes sir I've attended a number of conferences based on computer security both here in Toronto as well as in Las Vegas... as well as Washington DC.
 
 T: Okay, so... on your Flickr page you posted that you were looking to create a G20 pass for yourself.
 
@@ -756,7 +756,7 @@ B: I say again... I don't actually think I have any detonating devices.
 
 T: But can you not see how that is cause for concern?
 
-B: I can see how that is cause for concern. I do sir. But you have to understand a series of innocuous legal things... you're making a pie out of... a Byron eat shit pie out of stuff that is entirely legal. You guys are asking me the same questions fifteen different times... two or three groups of people... I don't know how.... I've made sure that I had my wife sign this... I couldn't get away with that because I wanted to be accurate. I'll even... once you go through my computer... you'll see the correspondence I had with somebody where I tell them I'm very clear about wanting to follow the rules, asking for advice, and finding out that what I'm doing I cannot proceed any further on without contravening Ministry of Natural Resources, and even if I did get the licensing for that I still wouldn't be able to move it anywhere because I would need okay from Transport Canada. And you'll even see that I downloaded the forms from the government to have the detail of what exactly I need to have where... I need a land commercially zoned with a certain set aside space to that I can continue on these hobbies. You will see all of this come out that I'm interested in being just a good citizen and following the rules for these hobbies... that seem to attract peoples' attention when Obama comes to town.
+B: I can see how that is cause for concern. I do sir. But you have to understand a series of innocuous legal things... you're making a pie out of... a Byron eat shit pie out of stuff that is entirely legal. You guys are asking me the same questions fifteen different times... two or three groups of people... I don't know how.... I've made sure that I had my wife sign this... I couldn't get away with that because I wanted to be accurate. I'll even... once you go through my computer... you'll see the correspondence I had with somebody where I tell them I'm very clear about wanting to follow the rules, asking for advice, and finding out that what I'm doing I cannot proceed any further on without contravening Ministry of Natural Resources, and even if I did get the licensing for that I still wouldn't be able to move it anywhere because I would need okay from Transport Canada. And you'll even see that I downloaded the forms from the government to have the detail of what exactly I need to have where... I need a land commercially zoned with a certain set aside space so that I can continue on these hobbies. You will see all of this come out that I'm interested in being just a good citizen and following the rules for these hobbies... that seem to attract peoples' attention when Obama comes to town.
 
 T: What if I was to challenge you to say that... what if all of this was you creating an alibi for yourself in case you got caught.
 
@@ -956,7 +956,7 @@ B: To put them in a cardboard casing.
 
 T: And they didn't like or approve of your drawings of how you intended to press the rockets? 
 
-B: No they say that without certain amounts of licensing... that I couldn't even begin to do that. So they idea was just dumped. And I'm stuck with an $80 jack.
+B: No they say that without certain amounts of licensing... that I couldn't even begin to do that. So the idea was just dumped. And I'm stuck with an $80 jack.
 
 T: Do you understand why they don't want you compressing your own explosive charge?
 
@@ -1142,7 +1142,7 @@ T: Eventually the male identified himself with a valid drivers licence as Byron 
 
 B: There are material inaccuracies in that, just so you know.
 
-T: With a section of the criminal code presumed by the officers to relate to terrorism. As a result of this suspicious behaviour exhibited by Byron Lyon Sonne officers Wong and Coffin forwarded the information to the Toronto Police Services intelligence service. As a result a surveillance team was deployed to monitor the daily activities of Mr. Byron. During the course of the next three days surveillance was conducted on the accused in relation to those activities the accused was observed attending the Home Depot and purchasing plastic tubing. He was also observed in [ui] other stores purchasing other materials which the officers deemed to be suspicious. The accused was observed taking photographs of secure areas surrounding the G20 including buildings in which delegates were staying, the CN Tower, the Toronto Transit Authority, police officers and police security cameras. These photos were later posted on the accused's Flickr in conjunction with with the [ui - loud noise] webpage. 
+T: ...with a section of the criminal code presumed by the officers to relate to terrorism. As a result of this suspicious behaviour exhibited by Byron Lyon Sonne officers Wong and Coffin forwarded the information to the Toronto Police Services intelligence service. As a result a surveillance team was deployed to monitor the daily activities of Mr. Byron. During the course of the next three days surveillance was conducted on the accused in relation to those activities the accused was observed attending the Home Depot and purchasing plastic tubing. He was also observed in [ui] other stores purchasing other materials which the officers deemed to be suspicious. The accused was observed taking photographs of secure areas surrounding the G20 including buildings in which delegates were staying, the CN Tower, the Toronto Transit Authority, police officers and police security cameras. These photos were later posted on the accused's Flickr in conjunction with with the [ui - loud noise] webpage. 
 
 B: You realize that we're redoing our lawn sprinkler system, so all of that is also... and black tubing and things like that so that's exactly what they're looking at.
 
