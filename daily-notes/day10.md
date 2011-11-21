@@ -2,7 +2,9 @@
 Byron Trial Notes, Day 10 (Week 3)
 ==================================
 
-**Summary:** Counsel crossexamines Detective-Sargent Bui. Topics include various violations of Byron's rights, including denying counsel, detaining Byron beyond 24 hours without putting him before a Justice of the Peace, leveraging his wife to try and make him give a guilty confession (a "moral appeal") and insinuating Byron might fall into a legal black hole.
+**Summary:** Counsel continues crossexamining Detective-Sargent Bui, moving on to the recorded interviews. Topics include various violations of Byron's rights, including denying counsel, detaining Byron beyond 24 hours without putting him before a Justice of the Peace, leveraging his wife to try and make him give a guilty confession (a "moral appeal") and insinuating Byron might fall into a legal black hole.
+
+********
 
 (Judge hasn't finished her reasons. Should be done for Tuesday or maybe Wednesday.)
 
