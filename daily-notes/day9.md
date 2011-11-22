@@ -494,6 +494,19 @@ Defense:
 
 (Bui asked to leave)
 
-[Redacted]
+
+* Judge: My sense is that you're on a fishing expedition for evidence about...
+
+* It relates to a disclosure issue.
+
+* How would any evidence here relate to the matter at hand.
+
+* Intent with Mr. Sonne...
+
+* If there is a plan going on that intrinsically ties the two...
+
+* Judge: It seems kind of far fetched that there was big, overarching, conspiracy. You'll need to persuade me.
+
+
 
 (Judge: Hopefully I'll have my decision for Monday.)
