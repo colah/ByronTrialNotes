@@ -1,6 +1,10 @@
 Byron's Trial, Day 9 (Week 2)
 =============================
 
+**Summary:** The testimony of Penton continues with us watching the video from his car of him arresting Byron. Crow asks a few questions and then Counsel crosses. Then we move back to the video of Byron's second interview with Bui. Crown asks a few questions and then Counsel begins cross. Court ends before Counsel reaches the second interview.
+
+********
+
 (Can't play video for half an hour)
 
 * Prosecution: There were technical difficulties with the video.

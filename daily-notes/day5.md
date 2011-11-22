@@ -3,6 +3,10 @@
 Byron's Trial, Day 5 (Week 2)
 =============================
 
+**Summary:** Judge dismisses the motion regarding the warrant on the grounds that she found one charge that survived. From there, a brief legal debate ensued, leaving it clear that some party was confused. An hour in, court was adjourned until the next day.
+
+********
+
 
 (Defense and Crown talking for half an hour)
 

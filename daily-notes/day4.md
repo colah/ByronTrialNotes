@@ -1,6 +1,11 @@
 Byron's Trial, Day 4
 ====================
 
+
+**Summary:** Crown concludes response on French's affidavit. The Judge rules that Byron wasn't detained until the 'ruse'. Counsel responds to some issues raised in the Crown's response.
+
+******
+
 * Prosecution & Defense: We were proceeding on the basis that there was a restricted access area and there is a fence. But my friend and I that the actual state of affairs is: the metro Toronto convention center, which is contained in the central access zone. There is the restricted access zone around the CAZ, which is also fenced in, and will also be under the control the RCMP. The RAZ contains residents and businesses. The Toronto Police are in there. And then there's another ring around the RAZ that wasn't fenced.
   * Judge: Did you need a fence to get into unfenced ring?
   * We need to clarify this.

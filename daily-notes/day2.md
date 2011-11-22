@@ -1,7 +1,9 @@
 Byron's Trial, Day 2
 ====================
 
-**Summary:** 
+**Summary:** Counsel begins oral argument on French's Affidavit.
+
+******
 
 (Lawyers are working on an agreed statement of fact. Judge is waiting outside courtroom for half hour or so.)
 (Byron says his lawyers are anticipating killing the search warrant today.)

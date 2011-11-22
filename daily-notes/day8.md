@@ -1,6 +1,10 @@
 Byron's Trial, Day 8 (Week 2)
 =============================
 
+**Summary:** We finish watching Bui's first interview with Byron. Officer Dumlaw is sworn in and goes through examination and cross. We begin watching a movie of Bui's second interview with Byron but pause when he has to leave. Officer Penton, who arrested Byron, is brought in as a witness, but trial ends shortly after.
+
+********
+
 (Planning of the next few days of trial. What arguments depend on the results of other arguments?)
 
 (Doctor Anderson -- Prosecution Expert -- will fly in next week, but we don't seem to have time...)

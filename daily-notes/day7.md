@@ -2,6 +2,10 @@
 Byron's Trial, Day 7 (Week 2)
 =============================
 
+**Summary:** The Crown brings in the witnesses Officer Maadenian, Detective Shanehill, and Detective Garrow who go through examination and cross. The Crown also brings in Detective-Sargant Bui who's testimony is not completed. We begin watching a movie of his first interview with Byron.
+
+********
+
 * Judge: It would be nice if Prosecution & Defense could anticipate needing to talk in advance...
 * Prosecution: There are a couple of things in the evidence that should not be a matter of public record. I'm being cryptic intentionally, and I'll let my friend elaborate. We are both in agreement that it should not go in the public domain. So we made need to make a minor edit... If we can locate it in the transcript, police video service can edit the video. And the transcript should be black marker redacted.
 * Defense gives page number to edit out.

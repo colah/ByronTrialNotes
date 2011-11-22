@@ -1,6 +1,10 @@
 Byron's Trial, Day 3
 ====================
 
+**Summary:** Counsel continues oral argument on French's Affidavit. Crown begins response.
+
+******
+
 (Fire alarm take 40 min)
 
 * Defense: Websites referred to in Affidavit. I just want to highlight that most online sources outline what it is (which helps give it credibility). How would Officer French have described topsite in such a paragraph? I think at best it would be "A site I found on the Internet, which has content from another website that I didn't look at." In fairness, there was no such paragraph...
