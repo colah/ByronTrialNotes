@@ -2,6 +2,10 @@
 Byron Trial, Day 11 (Week 3)
 ============================
 
+**Summary:** Discussion of scheduling and submissions from Counsel on the various breaches of Byron's rights regarding his interviews with Bui. 
+
+********
+
 Judge: First matter of business is scheduling
 
 * submissions on statement today and tomorrow

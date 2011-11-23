@@ -33,3 +33,7 @@ Week 3
 
 [Day 10 (Nov 21, 2011)](https://github.com/colah/ByronTrialNotes/blob/master/daily-notes/day10.md): Counsel continues crossexamining Detective-Sargent Bui, moving on to the recorded interviews. Topics include various violations of Byron's rights, including denying counsel, detaining Byron beyond 24 hours without putting him before a Justice of the Peace, leveraging his wife to try and make him give a guilty confession (a "moral appeal") and insinuating Byron might fall into a legal black hole.
 
+
+[Day 11 (Nov 22, 2011)](https://github.com/colah/ByronTrialNotes/blob/master/daily-notes/day11.md): Discussion of scheduling and submissions from Counsel on the various breaches of Byron's rights regarding his interviews with Bui.
+
+[Day 12 (Nov 23, 2011)](https://github.com/colah/ByronTrialNotes/blob/master/daily-notes/day12.md):
