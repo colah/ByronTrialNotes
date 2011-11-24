@@ -2,14 +2,14 @@
 Byron Trial Notes, Day 12 (Week 3)
 ==================================
 
-**Summary:** 
+**Summary:** Defense continues arguing that rights abuses make the statements Byron made in custody inadmissible. Prosecution argues against, in particular suggesting that the rights violations were mitigated by Byron's legal knowledge.
 
 ********
 
 Judge: Defense has an hour an half to finish submissions.
 
-* The court can conclude no relevant evidence would have been had from the formality of asking Hill & Garrow from the balence of evidence.
-* It's not a circumstance, in this case, where the court should be concerned and unfairness to the witnesses or the Crown. THe contradiction is in the very statement the Crown wishes to tender and was given notice in our submission...
+* The court can conclude no relevant evidence would have been had from the formality of asking Hill & Garrow from the balance of evidence.
+* It's not a circumstance, in this case, where the court should be concerned and unfairness to the witnesses or the Crown. The contradiction is in the very statement the Crown wishes to tender and was given notice in our submission...
   * The Crown's failure to call any witness who report to be calling the shots... If adverse inferences should be drawn, it should be against the Crown for not calling witnesses within their control. But I think that adverse inferences shouldn't be used, unless as a last resort
 * Circumstantial evidence that...
 * The circumstances of Mr. Sonne's comments -- spontaneous, detailed, and without much knowledge.... At what point would Mr. Sonne have had an opportunity to conclude that making false claims about Hill & Garrow's conduct...
@@ -29,7 +29,7 @@ Judge: Defense has an hour an half to finish submissions.
 * Two alternative theories:
   * Pretext arrest
   * Ruse interrogation
-* Warrant was overly broad, extendes beyond what is...
+* Warrant was overly broad, extends beyond what is...
 * Mr. Sonne arrested for lesser charges than those in the warrant.
 * Unusual and unsupportable no-calls-order.
 * Violation of counsel rights, which would be useful if this is the case.
@@ -47,7 +47,7 @@ Judge: Defense has an hour an half to finish submissions.
 * Statement that HTMD was found, mistake belief that thermocouple is a detonator. They they have to shift gears..
 * So Bui is parachuted in. His unit had volunteered to handle ...
 * Does it make sense that they would drill into Mr. Sonne how bad things look to...
-* The alternative theory is the ruse theory: These two detectives go in and abuse a hallowed privilege that exists and is so important to the work. And they do pass on the information, but it must have been clear that the problems would arrise...
+* The alternative theory is the ruse theory: These two detectives go in and abuse a hallowed privilege that exists and is so important to the work. And they do pass on the information, but it must have been clear that the problems would arise...
 * Issue of chemicals result. Hill goes to get information. Hill doesn't clarify his changed role.
 * Right to silence. If Mr. Sonne was denied a meaningful choice with them coming in and talking about the investigation when Mr. Sonne not knowing...
 
@@ -86,7 +86,7 @@ Judge: Defense has an hour an half to finish submissions.
 * Precedent talks about clear offer of an exchange.
 * The issue of oppression. Brings Mr. Sonne to feeling like he's going to vomit. And when Mr. Sonne expresses concern about security ticket, he gives a promise to try and prevent being pulled out of the proper legal system.
   * Bui said he wasn't surprised ...
-* No recharting at the beginning of the second interrogation.
+* No rechartering at the beginning of the second interrogation.
 * Novel aspect is that status changed from lawful to unlawful detention, does that reengage 10(b)? This relates to Bui sending away counsel.
 
 (break 20 min)

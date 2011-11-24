@@ -36,4 +36,4 @@ Week 3
 
 [Day 11 (Nov 22, 2011)](https://github.com/colah/ByronTrialNotes/blob/master/daily-notes/day11.md): Discussion of scheduling and submissions from Counsel on the various breaches of Byron's rights regarding his interviews with Bui.
 
-[Day 12 (Nov 23, 2011)](https://github.com/colah/ByronTrialNotes/blob/master/daily-notes/day12.md):
+[Day 12 (Nov 23, 2011)](https://github.com/colah/ByronTrialNotes/blob/master/daily-notes/day12.md): Defense continues arguing that rights abuses make the statements Byron made in custody inadmissible. Prosecution argues against, in particular suggesting that the rights violations were mitigated by Byron's legal knowledge.
