@@ -28,7 +28,7 @@ Trial, Day #1
 the approach to the trial
 * Evidentiary basis:
  * Preliminary Inquiry
- * Prosecution: doesn't object, but may wish t add more
+ * Prosecution: doesn't object, but may wish to add more
 * The charges are read. Byron pleads not guilty on all counts.
 * The Defense is trying to get French's ITOs
 * French says he based the affidavit on a precedent, not his but
@@ -47,7 +47,7 @@ Section 9 issue
 * Bicycle officers, Wang & Coffin arrive.
 * Video meta-data shows cruiser lights on.
 * Simon testified they were necessary in order to get the car to film.
-* Crown concedes that once Wang uses the J-walking ruse, Mr. Sonne was under detention.
+* Crown concedes that once Wang uses the J-walking ruse, Mr. Sonne was under detention [and that it was illegal].
 * Defense: Once Mr. Sonne was sandwiched between the flashing car and
 a police officer, signifying that he isn't leaving, that would surely
 be detention. If not, surely when officer Wang arrived with his bike
