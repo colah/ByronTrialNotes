@@ -1,4 +1,5 @@
-Byron Sonne's Trial, Day 13 (Week 3) ====================================
+Byron Sonne's Trial, Day 13 (Week 3) 
+====================================
 
 [Notes taken by Alex]
 
