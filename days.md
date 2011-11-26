@@ -9,7 +9,7 @@ Week 1
 
 [Day 1 (Nov 7, 2011)](https://github.com/colah/ByronTrialNotes/blob/master/daily-notes/day1.md): After some introductory dialogue, we move to the question of when Byron was first detained. Byron first came to their attention for taking pictures downtown shortly before the G20. The police put out a high-priority call for him and tracked him down. He refused to identify himself, so the police threatened to arrest him for jay-walking, though they admit he never did. Clearly, by the time they performed this 'ruse,' they were detaining him... But when did the detention begin?
 
-[Day 2 (Nov 8, 2011)](https://github.com/colah/ByronTrialNotes/blob/master/daily-notes/day2.md): Counsel begins oral argument on French's Affidavit.
+[Day 2 (Nov 8, 2011)](https://github.com/colah/ByronTrialNotes/blob/master/daily-notes/day2.md): Counsel begins oral argument on [French's Affidavit](https://github.com/colah/ByronTrialNotes/raw/master/court-documents/warrant-June22-58Elderwood.pdf).
 
 [Day 3 (Nov 9, 2011)](https://github.com/colah/ByronTrialNotes/blob/master/daily-notes/day3.md): Counsel continues oral argument on French's Affidavit. Crown begins response.
 
@@ -22,9 +22,9 @@ Week 2
 
 [Day 6 (Nov 15, 2011)](https://github.com/colah/ByronTrialNotes/blob/master/daily-notes/day6.md): Judge states that a misunderstanding occurred and gives more details on her ruling. She is open to argument on its implications. Defense outlines its position. Court is adjourned early.
 
-[Day 7 (Nov 16, 2011)](https://github.com/colah/ByronTrialNotes/blob/master/daily-notes/day7.md): The Crown brings in the witnesses Officer Maadenian, Detective Shanehill, and Detective Garrow who go through examination and cross. The Crown also brings in Detective-Sargant Bui who's testimony is not completed. We begin watching a movie of his [first interview](https://github.com/colah/ByronTrialNotes/blob/master/evidence/Bui-interview-1.md) with Byron.
+[Day 7 (Nov 16, 2011)](https://github.com/colah/ByronTrialNotes/blob/master/daily-notes/day7.md): The Crown brings in the witnesses Officer Maadenian, Detective Shanehill, and Detective Garrow who go through examination and cross. The Crown also brings in Detective-Sargant Bui who's testimony is not completed. We begin watching a movie of his [first interview](http://www.youtube.com/watch?v=RTX7Gw7YJpc) ([transcript](https://github.com/colah/ByronTrialNotes/blob/master/evidence/Bui-interview-1.md)) with Byron.
 
-[Day 8 (Nov 17, 2011)](https://github.com/colah/ByronTrialNotes/blob/master/daily-notes/day8.md): We finish watching Bui's first interview with Byron. Officer Dumlaw is sworn in and goes through examination and cross. We begin watching a movie of Bui's second interview with Byron but pause when he has to leave. Officer Penton, who arrested Byron, is brought in as a witness, but trial ends shortly after.
+[Day 8 (Nov 17, 2011)](https://github.com/colah/ByronTrialNotes/blob/master/daily-notes/day8.md): We finish watching Bui's first interview with Byron. Officer Dumlaw is sworn in and goes through examination and cross. We begin watching a movie of Bui's [second interview](http://www.youtube.com/watch?v=7o6ADO8Czf0) with Byron but pause when he has to leave. Officer Penton, who arrested Byron, is brought in as a witness, but trial ends shortly after.
 
 [Day 9 (Nov 18, 2011)](https://github.com/colah/ByronTrialNotes/blob/master/daily-notes/day9.md): The testimony of Penton continues with us watching the video from his car of him arresting Byron. Crow asks a few questions and then Counsel crosses. Then we move back to the video of Byron's second interview with Bui. Crown asks a few questions and then Counsel begins cross. Court ends before Counsel reaches the second interview.
 

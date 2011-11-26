@@ -14,6 +14,16 @@ Another example is Byron's waveguide, described as the key motivation for the se
 
 > "You're making a pie — a Byron-eat-shit pie — out of stuff that is entirely legal." -- Byron Sonne to Detective-Sergeant Bui
 
+How Did This Happen?
+--------------------
+
+Byron came to the attention of the Police on June 15th as a"suspicious male" filming and taking pictures of the G20 security fence. A high-priority call was put out, and Byron was stopped by Constable Simon, who positioned Byron between the front of his car and himself, in the view of his vehicle's camera. Constable Simon was soon joined by Constables Coffin and Wong, who used their bikes to box in Byron. The officers questioned Byron, who refused to identify himself, asserting his right to not do so. In response, the Police threatened to charge him with jay-walking (despite having, the officers have admitted, no grounds), allowing them to arrest him if he did not identify himself. At this point, Byron identified himself. [**Read More...**](https://github.com/colah/ByronTrialNotes/blob/master/synthesis/arrest.md)
+
+What's Been Happening in the Trial?
+-----------------------------------
+
+Check out the [day by day description](https://github.com/colah/ByronTrialNotes/blob/master/days.md) of Byron's trial.
+
 Regarding the Notes
 -------------------
 
@@ -26,6 +36,9 @@ Please Note that Christopher is:
  * Can't always hear the proceedings of the trial very well
 
 These notes are provided in good faith but may have mistakes, especially regarding the spelling of names. They were jotted down by Christopher, frantically typing to try and keep up with the trial, with some minor spelling and grammar corrections since.
+
+Important Notes
+---------------
 
 **Feel free to fork and add additional notes, or correct the numerous grammar/spelling mistakes.**
 
