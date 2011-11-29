@@ -197,7 +197,7 @@ Defense Crosses
 * [Technical description of bit torrent]
   * That's an explanation Hackers might use. It's used to circumvents copyright.
 * Are there any other uses of it? Is it used to distribute enterprise software?
-  * Yes. (?? confirm this with others)
+  * Yes. 
 * [Starts listing production of explosive related torrents]
 * [specific torrent with nuclear in title] Did that relate nuclear power, or?
   * I don't know. Possibly transportation and explosives.
@@ -636,7 +636,7 @@ Swear in Cpl. Lee
 * Is it fair to say that your dealings with item 20 were complete by Sep 15?
   * Our major dealings were complete.
 * What test were you applying to decide if you flag a particular file?
-  * I relied on the email from Oulett
+  * I relied on the email from Oullet
 * Was there a legal standard you were applying?
 * Objection: Legal issue...
 * Judge: Clarify question...
