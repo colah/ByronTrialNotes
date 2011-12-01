@@ -5,7 +5,7 @@ Byron's Trial, Day 15 (Week 4)
 
 Crown: (Byrne, continuation of yesterday)
 
-* Does it matter that the officer misconstrued uh- misconceived the specific authority under which the officer sized the computer if he seized the computer under reasonable probable grounds under by applying the proper standard 480-9
+* Does it matter that the officer misconstrued uh- misconceived the specific authority under which the officer sized the computer if he seized the computer under reasonable probable grounds under by applying the proper standard 489
 
 * Case: Police officer gets a warrant, seizes a bandage, turns out the warrant is invalid, the court of appeal rules that the seizure was still legal
 
@@ -45,7 +45,7 @@ Crown: (Byrne, continuation of yesterday)
 
 * It's not like he was looking for evidence of some other crime, if they had seized something that lead to another charge then this might be a live issue.
 
-* To the extent that items were excluded from the ITO because there was no evidence that they would found at the location, and then when they arrive at the location and low and behold the items are there, there is no reason they cannot seize them under 480-9, and insofar as Wo(sp?) disagrees it is wrongly ruled
+* To the extent that items were excluded from the ITO because there was no evidence that they would found at the location, and then when they arrive at the location and low and behold the items are there, there is no reason they cannot seize them under 489, and insofar as Wo(sp?) disagrees it is wrongly ruled
 
 * This is not an attempt to circumvent prior judicial authority
 
@@ -97,7 +97,7 @@ Defence (Copeland)
 
 * Plain view requirement that it be immediately apparent that the item be criminal in nature, this must apply to individual items not a collection of items ie: all the computers
 
-* When it gets into 480-9 we are looking at exceptions to the policy of prior judicial authority
+* When it gets into 489 we are looking at exceptions to the policy of prior judicial authority
 
 * "The question of whether a thing would afford evidence should be made on a thing by thing basis" to seize an entire class of thing is too great an exception
 
@@ -111,7 +111,7 @@ Defence (Copeland)
 
 * Specific narrow classes of records
 
-* 480-7 contained specific statutory provisions for searches of this sort
+* 487 contained specific statutory provisions for searches of this sort
 
 * The warrant allowed a search for specific files in a restricted time period which may itself be a way of balancing the right to privacy
 
@@ -165,7 +165,7 @@ Defence (Copeland)
 
 * In Jones, what focuses the search, makes it tailored, reasonable, restrained is the narrow terms of specific items. Any items not in the warrant old not be searched for, one could not seize anything that was not on the warrant under the warrant. If in the narrow search allowed by the warrant they came across some other evidence then there is a power to seize under another power but there is no justification of a broader search.
 
-* Once it is not in the warrant then we have to apply the standards of plain view and 480-9
+* Once it is not in the warrant then we have to apply the standards of plain view and 489
 
 * There must be in the officers mind reasonable grounds to believe that it will afford evidence
 
@@ -179,7 +179,7 @@ Defence (Copeland)
 
 * If the honour finds that the officer was not applying the standard and was simply applying the relevance standard…
 
-* It creates big problems when the bulk of the evidence is seized under 480-9, which is an exception to the rule of prior judicial authority
+* It creates big problems when the bulk of the evidence is seized under 489, which is an exception to the rule of prior judicial authority
 
 * Lee did a thorough if not complete review and made a collection of bookmarks he was not applying a standard of RPGs
 
@@ -199,9 +199,9 @@ Crown:
 
 * Not a reasonable argument that records must be storable on both to be valid
 
-J: Question of onus, crown has conceded that items were not seized under the warrant, Mr Copeland says you must item by item argue that the seizure under 480-9 was valid.
+J: Question of onus, crown has conceded that items were not seized under the warrant, Mr Copeland says you must item by item argue that the seizure under 489 was valid.
 
-C: He is acting on a standard of RPGs whether under the warrant or under 480-9 generally and if you agree with my submission on his general approach then there's no problem. There are thousands of items and it is not my role to anticipate any possible attack on any piece of evidence.
+C: He is acting on a standard of RPGs whether under the warrant or under 489 generally and if you agree with my submission on his general approach then there's no problem. There are thousands of items and it is not my role to anticipate any possible attack on any piece of evidence.
 
 * There is nothing inherent in the types of evidence being sought that would limit the  
 
