@@ -48,3 +48,5 @@ Week 4
 [Day 15 (Nov 29, 2011)](https://github.com/colah/ByronTrialNotes/blob/master/daily-notes/day15.md): _summary pending_
 
 [Day 16 (Nov 30, 2011)](https://github.com/colah/ByronTrialNotes/blob/master/daily-notes/day16.md): _summary pending_
+
+[Day 17 (Dec 2, 2011)](https://github.com/colah/ByronTrialNotes/blob/master/daily-notes/day17.md): _summary pending_
