@@ -1,6 +1,6 @@
 
-The Arrest of Byron Sonne
-==========================
+The Arrest and Detention of Byron Sonne
+========================================
 
 Byron came to the attention of the Police on June 15th as a"suspicious male" filming and taking pictures of the G20 security fence. A high-priority call was put out, and Byron was stopped by Constable Simon, who positioned Byron between the front of his car and himself, in the view of his vehicle's camera. Constable Simon was soon joined by Constables Coffin and Wong, who used their bikes to box in Byron. The officers questioned Byron, who refused to identify himself, asserting his right to not do so. In response, the Police threatened to charge him with jay-walking (despite having, the officers have admitted, no grounds), allowing them to arrest him if he did not identify himself. At this point, Byron identified himself. 
 
@@ -30,9 +30,14 @@ By morning, 24 hours of detention was rapidly approaching. This is significant b
 
 Later, Byron's detention was reviewed and his detention became lawful again.
 
-A few days later Bui interviewed Byron again. Byron, prepared by his lawyers, began [the second interview][interview2] declining to talk. To get him talking, Bui leveraged the arrest of Byron's wife, Kristen, talking about how today "is her chance" to get bail and playing Byron's guilt to say something "that's going to help her." As the interview goes on, Bui strengthens his language, urging Byron to "throw himself at the mercy of the court" to save Kristen. Byron is reduced to begging, "Anything you can do to help my wife,
+A few days later Bui interviewed Byron again. Byron, prepared by his lawyers, began [the second interview][interview2] declining to talk. To get him talking, Bui leveraged the arrest of Byron's wife, Kristen, talking about how today "is her chance" to get bail and playing Byron's guilt to say something "that's going to help her." As the interview went on, Bui strengthened his language, urging Byron to "throw himself at the mercy of the court" to save Kristen. Byron was reduced to begging, "Anything you can do to help my wife,
 Sir. She's everything to me." In the interview, Bui also insinuated that Byron could end up falling outside the Canadian legal system.
 
+The police have admitted they knew "and had fully processed" that Byron didn't have HTMD or a detonator within 10 days of his arrest, but they continued making that claim as late as November, preventing Byron from getting bail.
+
+Throughout all of this, there were horrendous breaches of Byron's Charter Rights. In Canada, a Charter violation doesn't necessarily mean that evidence gets thrown out; instead it must be found that "the admission of it in the proceedings would bring the administration of justice into disrepute." ([__Canadian Charter of Rights and Freedoms__][ccrf], 24(2) ) This is what Justice Spies, the Judge for Byron's Trial, is presently deciding on. The author doesn't see how the __Canadian Charter of Rights And Freedoms__ can be a meaningful document and there not be true consequence for these breaches.
+
+Chris Olah
 
 
 [warrant1]: https://github.com/colah/ByronTrialNotes/raw/master/court-documents/warrant-June22-58Elderwood.pdf
@@ -40,6 +45,6 @@ Sir. She's everything to me." In the interview, Bui also insinuated that Byron c
 [interview1]: http://www.youtube.com/watch?v=RTX7Gw7YJpc
 [interview1t]: https://github.com/colah/ByronTrialNotes/blob/master/evidence/Bui-interview-1.md
 [interview2]: http://www.youtube.com/watch?v=7o6ADO8Czf0
-
+[ccrf]: http://en.wikipedia.org/wiki/Canadian_Charter_of_Rights_and_Freedoms
 
 
