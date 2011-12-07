@@ -35,7 +35,7 @@ Sir. She's everything to me." In the interview, Bui also insinuated that Byron c
 
 The police have admitted they knew "and had fully processed" that Byron didn't have HTMD or a detonator within 10 days of his arrest, but they continued making that claim as late as November, preventing Byron from getting bail.
 
-Throughout all of this, there were horrendous breaches of Byron's Charter Rights. In Canada, a Charter violation doesn't necessarily mean that evidence gets thrown out; instead it must be found that "the admission of it in the proceedings would bring the administration of justice into disrepute." ([__Canadian Charter of Rights and Freedoms__][ccrf], 24(2) ) This is what Justice Spies, the Judge for Byron's Trial, is presently deciding on. The author doesn't see how the __Canadian Charter of Rights And Freedoms__ can be a meaningful document and there not be true consequence for these breaches.
+Throughout all of this, there were horrendous breaches of Byron's Charter Rights. In Canada, a Charter violation doesn't necessarily mean that evidence gets thrown out; instead it must be found that "the admission of it in the proceedings would bring the administration of justice into disrepute." ([_Canadian Charter of Rights and Freedoms_][ccrf], 24(2) ) This is what Justice Spies, the Judge for Byron's Trial, is presently deciding on. The author doesn't see how the _Canadian Charter of Rights And Freedoms_ can be a meaningful document and there not be true consequence for these breaches.
 
 Chris Olah
 
