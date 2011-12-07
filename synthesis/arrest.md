@@ -4,9 +4,9 @@ The Arrest and Detention of Byron Sonne
 
 Byron came to the attention of the Police on June 15th as a"suspicious male" filming and taking pictures of the G20 security fence. A high-priority call was put out, and Byron was stopped by Constable Simon, who positioned Byron between the front of his car and himself, in the view of his vehicle's camera. Constable Simon was soon joined by Constables Coffin and Wong, who used their bikes to box in Byron. The officers questioned Byron, who refused to identify himself, asserting his right to not do so. In response, the Police threatened to charge him with jay-walking (despite having, the officers have admitted, no grounds), allowing them to arrest him if he did not identify himself. At this point, Byron identified himself. 
 
-The police were deeply alarmed by this and, by the next day, Byron was under surveillance by a team of police officers. On 18th they observed that he went to "Tucker's Pottery Supply" and "Plastic World" but while this was considered very suspicious, police never went to the stores to find out what they sold. On the 21st, he bought gardening and barbecue supplies at the Home Depot. He spent the rest of the time around the house, some of it outdoors gardening or laying in a hammock.
+The police were deeply alarmed by this and, by the next day, Byron was under surveillance by a team of police officers. On June 18th, they observed that he went to "Tucker's Pottery Supply" and "Plastic World" but while this was considered very suspicious, police never went to the stores to find out what they sold. On the 21st, he bought gardening and barbecue supplies at the Home Depot. He spent the rest of the time around the house, some of it outdoors gardening or laying in a hammock.
 
-During this time, but apparently independently, "open source research" (ie. looking at publicly accessible information on the Internet) was conducted into Byron, in particular turning up his twitter stream, which the police found alarming. 
+During this time, but apparently independently, "open source research" (ie. looking at publicly accessible information on the Internet) was conducted into Byron, in particular turning up his [twitter stream][twitter], which the police found alarming. 
 
 Cumulatively, the observation and "open source research into the deep webs", raised sufficient concern for the police to seek a warrant to search Byron's house. The affidavit -- the document describing the reasons for the search which, when signed by a judge, becomes the warrant -- was written by one Officer French, an experienced and specially trained affiant. Since there is no defense attorney present when a warrant is signed, it is important that the affiant present both sides of the story, or, as they put it, be the 3 Fs: "Full, Fair, and Frank". 
 
@@ -20,6 +20,8 @@ Meanwhile, in violation of the Police's obligation to withhold questioning until
 
 Contemporaneously with these interviews, the search warrant was being executed for Byron's house. At some point they found a chemistry lab and had the reaction one might expect. Officer's Hill and Garrow were informed and returned to interview Byron further. The explained to him that this was a matter of officer safety and that he needed to explain what everything was so that no one would be injured in conducting the search. Naturally, Byron answered. Somehow this also resulted in him talking about things that could potentially injure an officer at his cottage, which resulted in him talking about his potato cannon.
 
+Somewhere around this time, Byron was also interviewed by Detective Bui, in order to inform him of his rights and the charges against him. This interview was not recorded, and while Bui has testified that he gave Byron his secondary caution, this is contradicted by other evidence. When asked if he understood Byron said no -- possibly because, while he had been told about his right to counsel and repeatedly asked about it, he had not yet received it, or possibly because the charges were inadequately explained -- but Bui felt he did anyways and concluded the interview.
+
 Back at Byron's house, the investigating officers came the belief that they had found the explosive HTMD (in fact, the lab only contained chemicals that could potentially be used to make explosives...) and mistook a thermocouple for a detonator. They also found the waveguide they were looking for... disassembled and in a box.
 
 Using the results of Byron's interviews and the mistaken findings at Byron's house, French wrote a [new affidavit][warrant2]. Somehow French didn't find out that the "wavegun" (the waveguide) was disassembled. Again, the affidavit was, unsurprisingly, signed.
@@ -32,14 +34,11 @@ Later, Byron's detention was reviewed and his detention became lawful again.
 
 A few days later Bui interviewed Byron again. Byron, prepared by his lawyers, began [the second interview][interview2] declining to talk. To get him talking, Bui leveraged the arrest of Byron's wife, Kristen, talking about how today "is her chance" to get bail and playing Byron's guilt to say something "that's going to help her." As the interview went on, Bui strengthened his language, urging Byron to "throw himself at the mercy of the court" to save Kristen. In response to Byron's explanations, Bui urged him to give "a reasonable explanation to save your wife." Bui also insinuated that Byron could end up falling outside the Canadian legal system, eventually saying, "I am going to fight tooth and nail to beat it, to have you be at a normal facility, where we can do this, and where you are subject to the regular rules of law in Canada... But that's not to say that those people aren't going to be looking at you."
 
-Byron answered all Bui's questions, though Bui wasn't satisfied with his answers. As the pressure increased, Byron began talking about Bui's promises regarding about his wife, and he'd need to to talk to his lawyer before making any deals. By the end, Byron was reduced to begging Bui: "Anything you can do to help my wife,
-Sir. She's everything to me." 
+Byron answered all Bui's questions, though Bui wasn't satisfied with his answers. As the pressure increased, Byron began talking about how he can't trust promises from Bui regarding Kristen, and how he'd need to to talk to his lawyer before making any deals. By the end, Byron was reduced to begging Bui: "Anything you can do to help my wife, Sir. She's everything to me." 
 
 That summarizes the publicly available knowledge about Byron's arrest and early detention. He would be held in jail awaiting trial for almost a year, substantially because, while the police have admitted they knew "and had fully processed" that Byron didn't have HTMD or a detonator within 10 days of his arrest, they continued claiming that he did for months afterwards. 
 
-Throughout all of this, there were horrendous breaches of Byron's Charter Rights. In Canada, a Charter violation doesn't necessarily mean that evidence gets thrown out; instead it must be found that "the admission of it in the proceedings would bring the administration of justice into disrepute." ([_Canadian Charter of Rights and Freedoms_][ccrf], 24(2) ) This is what Justice Spies, the Judge for Byron's Trial, is presently deciding on. The author doesn't see how the _Canadian Charter of Rights And Freedoms_ can be a meaningful document and there not be true consequence for these breaches.
-
-Chris Olah
+Throughout all of this, there were horrendous breaches of Byron's Charter Rights. In Canada, a Charter violation doesn't necessarily mean that evidence gets thrown out; instead it must be found that "the admission of it in the proceedings would bring the administration of justice into disrepute." ([_Canadian Charter of Rights and Freedoms_][ccrf], 24(2) ) This is what Justice Spies, the Judge for Byron's Trial, is presently deciding on. 
 
 
 [warrant1]: https://github.com/colah/ByronTrialNotes/raw/master/court-documents/warrant-June22-58Elderwood.pdf
@@ -48,5 +47,5 @@ Chris Olah
 [interview1t]: https://github.com/colah/ByronTrialNotes/blob/master/evidence/Bui-interview-1.md
 [interview2]: http://www.youtube.com/watch?v=7o6ADO8Czf0
 [ccrf]: http://en.wikipedia.org/wiki/Canadian_Charter_of_Rights_and_Freedoms
-
+[twitter]: http://twitter.com/torontogoat
 
