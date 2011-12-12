@@ -14,7 +14,7 @@ Byron's Trial, Day 18 (Week 4)
 * Some documents that are of a personal nature to Mr. Sonne. For example, all the visa statement of Mr. Sonne and Ms. Peterson... It should be an exhibit, but ...
   * J: Perhaps the Public is only entitled to a summary.
 * Photo that it is admitted contains Mr. Sonne and the security fence.
-* Mr. Sonne was arrested on a bus. Your honnor has heard evidence that he was in possession of a camera, police scanner, cellphone, a piece of paper. A piece of paper with a criminal code section about preventitive arrest and arrest hotline. It's admitted that paragraph on paper is from the website of the Comunity Solidarity Network.
+* Mr. Sonne was arrested on a bus. Your honor has heard evidence that he was in possession of a camera, police scanner, cellphone, a piece of paper. A piece of paper with a criminal code section about preventitive arrest and arrest hotline. It's admitted that paragraph on paper is from the website of the Comunity Solidarity Network.
 * Mr. Sonne lived at 58 Elderwood. Searched. Continuity of evidence is admitted. Nature and quantity of Gavid Edmiston, forensic chemist, ... Dr. Anderson based his report on it. The Defense takes no issue with the report.
 * Dr. Anderson... Defense agrees that he is an expert in organic chemistry...
 * It's conceded that Mr. Sonne used two email address blsonne@rogers.com and blsonne@halvan.com (sp?). Mr. Sonne's facebook profile (as available to public). 
@@ -37,9 +37,9 @@ Byron's Trial, Day 18 (Week 4)
 * Package stopped at border for ...
 * Mr. Sonne purchased Potasium Permaganate, Ms Cha... wrote to Mr. Sonne informing him that it was a hazardous material and could not be shipped.
 * Mr. Sonne used his credit card to purhase one pound of 
-* The Crown greatly appreciates the assitance of the defense. These concessions have saved a great deal of time.
+* The Crown greatly appreciates the assistance of the defense. These concessions have saved a great deal of time.
 
-* First witness. Urban Olbigrate (didn't catch spelling) sworn in.
+* First witness. Irv Albrecht sworn in.
 
 * Detective Constable, I understand that you're from the forensic identification services?
  * Yes.
@@ -50,7 +50,7 @@ Byron's Trial, Day 18 (Week 4)
 * And you have specialties, such as fingerprints.
  * Yes. I help gather and preserve physical evidence.
 * And you do forensic photography.
- * That's part of my epertise for preserving evidence. I also do videography when necessary.
+ * That's part of my expertise for preserving evidence. I also do videography when necessary.
 * You're part of... ?
  * The Chemical, Biological, radiological, explosives, is a team of fire department, police, and medical for dealing with situations involving one of those...
 * You have a number of things with you?
@@ -96,7 +96,7 @@ Byron's Trial, Day 18 (Week 4)
   * Close view of shelf lower down
 * Solvent, two bottles of acetone, one with a label used. 
   * Yes.
-* What is the bottle with alphachem label on it?
+* What is the bottle with alphachem label on it? (label at top says tetrahydrofuran)
   * Alphachem is a chemical company.
 * (next photo)
   * A container of methyl hydrate.
@@ -139,7 +139,7 @@ Byron's Trial, Day 18 (Week 4)
 * The desk, which has lab equipment on it, is what is referred to as "lab desk and cabinet"?
   * Yes.
 * (next photo)
-  * East wall of the work room, map of the Miskoka (sp?) area.
+  * East wall of the work room, map of the Muskoka (sp?) area.
 * (next photo)
   * Window ledge, label 50
 * What is the item?
@@ -155,14 +155,14 @@ Byron's Trial, Day 18 (Week 4)
 * (next photo)
   * View, next to workbench. Two pieces of board, one blue one brown. Some seeds, bellow.
 * Did you observe the thickness of the boards? Or the material?
-  * SOme sort of wood.
+  * Some sort of wood.
 * Work bench surface...
 * (next photo)
   * One of the items on the top of workbench, labeled 35. It was labeled as a "home made detonator".
 * Do you have further information?
   * We were told it was not a detonator, but a thermocouple.
 * (next photo)
-  * Item 36, I was told it was nicrom wire.
+  * Item 36, I was told it was nichrom wire.
 * (next photo)
   * Item 37, an anti-static bag.
 * What is an anti-static bag?
@@ -265,6 +265,253 @@ Byron's Trial, Day 18 (Week 4)
 
 (Lunch)
 
+* C: I apologize to you and everyone else. This part is going to be very tedious. We're going through all the chemicals. I'm going to move through this a bit quicker. 
+
+* 27a: items 2,3,4, and 5 -- 2,3,4 are jar-like plastic containers, 5 bigger (juice container?)
+* 1 is the magnetron...
+* These chemicals were put together for photos?
+  * Yes.
+* 2: Hexamine fuel tablets.
+ * Picture of it open, looking down at tablets. (White cylindrical )
+* 3: Hexamine fuel tablets
+* 4: NH₄NO₃, told that it is Amonium Nitrate
+* 5: Dark plastic four litre. (optimum hydrogen peroxide, 29%)
+
+* Items 6,7,8,9 -- from under lab desk, white containers with screw on lids
+* 6: Sulfamic Acid
+ * View inside looking down (seems to be half full?)
+* 7: KMnO₄, Potassium Permaganate
+
+* D: Perhaps the witness, could restrict himself to what he sees, since there will be a later report from an expert.
+* C: It will make it easier.
+* J: The expert will refer to these numbers, so that won't be a problem.
+* J: You don't know this from highschool chemistry?
+* No.
+* J: Witness should restrict to things he knows.
+
+* 8: KNO₃
+* 9: (half the size of other containers) Aluminimum powder
+
+* Items 10,11,12, 13 
+* 10: Iron III Oxide, Fe₂O₃
+ * View inside, red powder
+* 11: Zinc Oxide, ZnO
+ * Picture turned didn't really turn out
+* 12: C₂Cl₆ Hexachloro ethane
+ * View inside: white-blue powder
+* 13: Charcoal
+ * Black inside
+
+* Items 14, 15, 16, 17
+* Inside 14: sand like appearance. Brownish.
+* 14: Dextrin
+* 15: KCl
+ * Interior whitish
+* 16 (half jar size again): Stearine
+ * Whitish
+* 17: K₂SiO₃
+ * jell, light gray.
+
+* Items 18, 19, 20
+* 18: CuSo₄
+ * Inside: white-blue, mostly (3/4?) empty.
+* 19: Urea (NH₃)₂CO
+ * White powder
+* 20: NaHCO₃
+ * White powder, substantially empty
+
+* Items 21, 22, 23 -- 21 & 22 are bags, 23 small plastic packages.
+* 21: labeled wax shavings
+ * white shreds
+* PVC & ABS shavings
+ * black and white material
+* "Two plastic bags with red material on the inside, black writing on both bags is the same Brilliant Crimson A... Die"
+
+* Two more items removed from bellow the lab desk
+* 24: (looks like small glue container, but wide lid) KOH
+ * White clumpy, (half full?)
+* 25: zip lock back with black material, writing on outside says MNO (I can't see the text)
+
+* You travel through the hall.
+* Storage room.
+* Object just on the side of the door. Plastic pipe with fittings on both sides.
+ * Labeled suspected potato gun
+* Several house hold furnishings (lamp, fan...) and camping boxes of camping gear.
+* 51: yellow pail lid sitting in storage room, with electric leads
+  * Labels: "Chlorine vent", "Ph/sampling"
+  * C: Object in the middle?
+    * metal bar
+  * C: DId you ever find the bottom of the pail?
+   * No.
+* Recreation room. Did you seize anything of relevance?
+  * "Computers, but nothing of a chemical or electronic nature"
+* Furnace room; was there anything that caused you concern?
+  * Yes.
+* Box, alarm, window, table under window.
+* On the table are two platic containers. On the right is a box with something solid in it. On the left is a container with liquid and two wires going to it. 
+* Underneath the table is a box with blue and white crystal material.
+
+* Another photograph.
+  * Photo of the same area.
+  * Central is the table with labels plastic containers labeled 56-60, some under, some on, one on the window sill above.
+* (next picture)
+ * Behind the liquid with wires is another object I labeled a "modified power supply" and two multimeters.
+* 57: "Plastic container of liquid with wires and tubes coming out of it"
+* Another view of the same item. Marker not in this photo.
+* Photograph of the top. Some green labels attached to top and wires. We put these on as we disassembled so that we would know how it went together.
+* With heavy prompting from the crown he agrees they removed Styrofoam before that picture.
+
+* 58: White plastic container, two gauges. White prils on the bottom, in a glass dish. 
+* Picture looking down inside. Glass dish inside, and off white crystals.
+
+* Picture underneath table. "You can see through the plastic a blue and white material inside."
+* Picture of inside of container. Two guages and electric fan (not mentioned, but fan connects to a pipe going down into the crystals). 
+
+* 60: Picture of container in windowsill.
+
+* Picture outside, tube from furnace room goes outside, over gas meter, drapes over and has end. 
+* "It comes from the table, and connects to the elctrical components"
+* "I believe it hooks up to the power supply."
+* Fan with wire going to it. Fan hooks up to pipe.
+* Pipe goes outside.
+
+* Upstairs office. On the ground floor.
+* View of desk top (he means the top of the desk not a desktop computer).
+* 102: Close up view of letter and envelope. Canadian Association of Rocketry. June 17. New membership or renewal.
+* 103: Panasonic cassette camera, with cassette inside
+* 104: Sony voice recorder 
+ * There's actually two 104s there was a mistake with labeling.
+* Items on small desk: 107, 108, and 109.
+* 108: Piece of paper with first aid supplies. Order confirmation number at bottom. (Note on side denotes that most is for someone else)
+
+* 128: "electronic jamming device" -- found with label "jammer" on it. 
+ * What do you understand it to be?
+  * As I said, an electronic jamming device, that interferes with radio frequencies.
+* Box of files. (Crown confirms that this is where the earlier file on magnetron papers came from.)
+* "Alphachem quote"
+  * Hydrogen Peroxide (35%)
+  * Nitric Acid (S/S)
+
+* 134: Book entitled "Encyclopedia of Serial Killers"
+ * You went through all the book shelves?
+  * Other officers did.
+
+* Bulliten board
+* Where was the bulliten board located?
+  * In the office on the main floor.
+* 111: G20 news article.
+  * Was the article interesting to you?
+   * It talks about the upcoming G20 summits. 
+* 113: Common police codes.  Don't recognize where it is from. 
+* 114: Toronto police service divisions. 
+* "Collection of convention passes. One reads Defcon, another Black Hat Breakings and Trainings with the name Byron Sonne."
+* C: This will be the final exhibit, security passes...
+* J: Actually, they were mentioned as convention passes.
+
+(Break)
+
+* J: What is the status of this exhibit? It's the officer's understandings and where the objects were found, but the defense doesn't necessarily agree with the accuracy of the summary?
+* D: Yes.
+* C: Yes.
+
+* C: Do you have a familiarity with the Canadian Association of Rocketry?
+ * Passing familiarity. I looked at their website in reviewing for this case.
+* Did you see any rockets or anything you think could be made into a rocket?
+ * Yes.
+
+
+Defense Crosses
+---------------
+
+(Defense by Kevin!)
+
+* As part of your job you collect exhibits and are trained in that?
+ * Yes.
+* You've taken advanced courses in photography?
+ * Yes.
+* You take photos of your card to identify who took the photos?
+ * Yes. More a common practice than a procedure. 
+* in this investigation?
+ * Yes. Myself and other officers.
+* Digital photography? Advantages in that you can edit afterward?
+ * Yes. You can zoom in more easily...
+* There's metadata which is useful?
+ * Yes.
+* There's information about the camera. And date and time?
+ * Yes.
+* That tells you what time the photo was taken.
+ * Yes. Based on time on the camera.
+* It's fair to say that that is roughly the time that the photos were taken on that day?
+ * Yes.
+* I'm going to go through the photos slowly. Are these the photos you took?
+ * Yes.
+* You were called in. We were the CBRE team. You were the first forensic identification team. ETF had already gone through the house. 
+ * yes.
+* But there would be no reason, for, say, them to move somethng across the house?
+ * Yes.
+ * I took a video, other took photos at around the same time.
+* As the search went on, more things were move around.
+ * Yes.
+* So the best photos for telling how things were originally set out were at the beginning. 
+ * Yes.
+* (Shows two photos)
+* Things are differently arranged. 
+  * Yes.
+* SO if we want to know where things were, we need to be careful to look at photos early on.
+* Garage, photo is what it was like when you entered. Bicycle, drill press, table saw, circular saw...
+ * Yes.
+* And that fits the genral scene. There's lots of tools.
+ * Yes. Hardware related stuff.
+* (Later photo) You agree that things are arrange dvery differently in this photo.
+ * Yes.
+* Do you recognize these chemicals?
+ * PVC cement,
+ * WD40
+* If I suggested one was PVC cement, another ABS cement.
+  * Sure.
+* You mentioned acrylic welding... DO you know anything about it?
+  * No.
+* And the other bottle?
+  * I can see that it says student on it, but I can't read the rest.
+* The bottles of acetone and he... weren't seized and we don't know how much was in those containers?
+  * Yes.
+* Cupboards are open, bins with lids off. That might be the ETF?
+  * Yes.
+* You don't know one way or another, but that would be consistant with their job.
+  * Especially if they were concerned about safety.
+
+* Drillbits?
+ * Yes.
+* Pieces of hardware, arranged by the nature of the hardware?
+ * I can't speak to the arrangement...
+* Items that are adhesive related.
+ * Yes.
+* Next shelf unit includes screws and nails
+ * Yes.
+* So the shelf seems to be arranged by the nature of the items on it?
+ * yes.
+* Soldering related stuff.
+ * Yes.
+* Do you know what a soldering iron is?
+ * Yes.
+* You use it to make electronics. To connect wires and attach things to a circuit board?
+ * That would be a fair description.
+* Wood workinf supplies?
+ * yes.
+
+* Top of the desk beside the shelving unit?
+ * Yes. The lab desk.
+* There's jars behind the desk. The appear to have some sort of liquid in them. You didn't seize them. Did you look inside them?
+ * Yes. I looked at them.
+* This is a photo of a blue crystal. Did you see anything like that in the container?
+ * It's the same color.
+* If I suggested that they were growing crystals like that...
+ * I wouldn't be able to say, other than that they're the same color.
+* Did you ever grown crystals in high school?
+  * No.
+
+(In recess till tomorrow, Byrne may not be here for most of it. Will probably be part day.)
+ * I could only say that ehy were the same color.
 
 
 
