@@ -6,7 +6,7 @@ Byron Trial Notes, Day 19 (Week 4)
 * Bottles of acid had been moved
 * PVC pipes with caps had been moved from a bin of used PVC pipe.
 * Hexamine tablets were with the stove
-* Stove had discloration that it wouldn't get from burning gas.
+* Stove had discoloration that it wouldn't get from burning gas.
 * One could have burnt hexamine tablets on the stove. Could have caused the discoloration.
 
 )
@@ -19,13 +19,13 @@ Byron Trial Notes, Day 19 (Week 4)
  * Yes.
 * (Next picture) Speaker box and amplifier?
  * Yes
-* Packages of speeds?
+* Packages of seeds?
  * Yes.
 * Some of them are torn open?
  * Yes. Most of them are. Can't quite see, but most of them are.
-* (Next picture) Corkboard above the desk?
+* (Next picture) Cork-board above the desk?
   * Yes
-* (Next picture) Two bags of seeds on the corkboard?
+* (Next picture) Two bags of seeds on the cork-board?
   * Yes, In zip lock bags.
 * And while you can't make out all the text, there appears to be "sister corn"?
  * Yes.
@@ -39,17 +39,17 @@ Byron Trial Notes, Day 19 (Week 4)
  * Later.
 * But you took pictures of the gardening?
  * No. We focused inside.
-* To your recolection, there was extensive gardening?
+* To your recollection, there was extensive gardening?
  * Some sort of garden.
 * But you took no photos?
  * No.
-* Took no soil smaples?
+* Took no soil samples?
  * No, sir.
 * (Next picture) Plastic bag with electronics on it. Didn't try to determine what it was?
  * No. Just noted what the text was and took a picture.
 * Do you see a Liquid Crystal Display?
  * I can see it where your cursor is?
-* That didn't assit you in determining what it was?
+* That didn't assist you in determining what it was?
  * No.
 * (Next picture) Picture of workbench?
  * Yes.
@@ -57,7 +57,7 @@ Byron Trial Notes, Day 19 (Week 4)
  * Yes.
 * Later there were other objects on the desk, that's not how it was when you started?
  * No.
-* There's some sort of hose? I'm going to zoom in... Would you agree they were a sprinkler hids.
+* There's some sort of hose? I'm going to zoom in... Would you agree they were sprinkler heads?
  * I thought they were from an aquarium, actually.
 * But if I suggested...
  * Could be.
@@ -66,7 +66,7 @@ Byron Trial Notes, Day 19 (Week 4)
 * (Next picture) Area under the workbench?
  * Yes.
 * And you agreed yesterday that the lid may have been on initially?
- * I can't say one way or antother.
+ * I can't say one way or another.
 * Some tools?
  * A laser level...
 * This is a bin you might have to take with you somewhere?
@@ -75,13 +75,13 @@ Byron Trial Notes, Day 19 (Week 4)
  * Yes.
 * And there's the baggie with nichrom wire?
  * Yes.
-* And the antistatic bag is also in there?
+* And the anti-static bag is also in there?
  * I believe it was in one of the drawers.
 * But, in any event, it was not on top of the desk?
  * No, we put it there.
 * (Next picture) What you described hose with an air compressor fittings?
  * Yes.
-* You regognize the fittings?
+* You recognize the fittings?
  * Yes.
 * Do you have an underground sprinkler system at your house?
  * No.
@@ -93,14 +93,14 @@ Byron Trial Notes, Day 19 (Week 4)
  * Yes.
 * That would be consistent with what I suggested?
  * Yes.
-* In this room, there were things related to all sorts of technological endeavours?
+* In this room, there were things related to all sorts of technological endeavors?
  * Yes. Electronics, chemicals...
 * (Next picture) The furnace room. What you described as an electrochemical cell?
  * Actually, I described it as a container of liquid with wires attached.
 * (Next picture) Picture of same device.
  * Yes.
 * Were you familiar with this sort of object?
- * No. I recognize some things. The multimeters, a power suppply, a thermometer. 
+ * No. I recognize some things. The multimeters, a power supply, a thermometer. 
 * Multimeter is the thing at the top?
  * Yes.
 * J: Is that the same thing as the voltmeter?
@@ -132,7 +132,7 @@ Byron Trial Notes, Day 19 (Week 4)
  * Yes.
 * Lid was at the back, to the right?
  * Yes.
-* You described it as a storage room, and that's consitent with how this object was found?
+* You described it as a storage room, and that's consistent with how this object was found?
  * Yeah, it was in the room.
 * (Next picture) PVC object?
  * Yes.
@@ -140,11 +140,11 @@ Byron Trial Notes, Day 19 (Week 4)
  * Yes. Suspected potato cannon.
 * People use the for recreation?
  * Yes.
-* You would stuff object inside and then build up air preassure.
+* You would stuff object inside and then build up air pressure.
  * Maybe...
 * There might be other ways, but as you understand it...
  * Yes.
-* Now there's a hole, that would prevent air preassure from building up?
+* Now there's a hole, that would prevent air pressure from building up?
  * I thought that would be for igniting something.
 * Certainly, if it was to become a potato cannon, it would need to be modified.
  * Yes.
@@ -153,7 +153,7 @@ Byron Trial Notes, Day 19 (Week 4)
 * To be clear, as you understand a potato cannon, you wouldn't have been able to fire it?
  * I don't know, I didn't try.
 * But certainly from you understanding of how they work, that wouldn't.
- * You'd need a projectile. And a way to propell it.
+ * You'd need a projectile. And a way to propel it.
 * All right officer. Going back to that last photo...
 * From your understanding of how a potato cannon works, it couldn't work on the right side since it is closed off?
  * No.
@@ -169,7 +169,7 @@ Byron Trial Notes, Day 19 (Week 4)
  * Yes.
 * For example, the wooden drawer might have been pulled out?
  * Yes.
-* Cylinderical device?
+* Cylindrical device?
  * yes.
 * It says Standard range wifi.
  * Yes.
@@ -193,7 +193,7 @@ Byron Trial Notes, Day 19 (Week 4)
  * Yes.
 * Its purpose is to make a home network?
  * Yes.
-* Letter from the Candian Association of Rocketry?
+* Letter from the Canadian Association of Rocketry?
  * Yes.
 * I'm going to give you a copy of a document, could you confirm that it is the same?
  * Yes.
@@ -204,7 +204,7 @@ Byron Trial Notes, Day 19 (Week 4)
   * Participation in association events.
   * Networking in with fellow enthusiasts.
   * Representation to Canadian government officials.
-* (Next picture)  Corkboard.
+* (Next picture)  Cork-board.
  * Yes.
 * Some orange paper?
  * Yes.
@@ -231,7 +231,7 @@ Byron Trial Notes, Day 19 (Week 4)
 * There was a patio and hammock?
  * I don't recall. Some sort of outdoors.
 * (Next picture) Bookshelf, technical book?
- * Computer manuels.
+ * Computer manuals.
 * There's one that's called "Learning SQL" that would be programming related?
  * I don't recognize it.
 * "Linux Programming" though?
@@ -241,7 +241,7 @@ Byron Trial Notes, Day 19 (Week 4)
  * Yes.
 * CISSP book.
  * Yes.
-* If I suggested that it stood for Cerified Information System Security Professional?
+* If I suggested that it stood for Certified Information System Security Professional?
  * It stands for the letters, but so do many other things.
 * (Next picture) Bookshelf on the other side of the window?
  * Yes.
@@ -256,17 +256,17 @@ Byron Trial Notes, Day 19 (Week 4)
 * Did you choose to bring it up?
  * No, it was put to me.
 * (Next picture) Next shelf down.
-* Godel Echer Bach. Do you recognze that book?
+* Godel Echer Bach. Do you recognize that book?
  * No.
-* Hawkings. Do You recongize that book?
+* A Brief History of Time by Hawkings. Do You recognize that book?
  * Yes.
 * Popular science?
  * Yes.
-* Understanding physics by Isac Asimov. Do you recognize it?
+* Understanding physics by Issac Asimov. Do you recognize it?
  * Yes.
 * Popular science?
  * Yes.
-* Fermat's Emigma, do you recognize it?
+* Fermat's Enigma, do you recognize it?
  * No.
 * Familiar with Fermat's theorem?
  * No.
@@ -280,7 +280,7 @@ Byron Trial Notes, Day 19 (Week 4)
  * Yes.
 * Book of Mormon, Bible...
  * Yes.
-* Tao Teching? 
+* Tao Te Ching? 
  * Yes.
 * Famous religion and philosophy books?
  * Yes. Also "the essential Plato"
@@ -313,7 +313,7 @@ Byron Trial Notes, Day 19 (Week 4)
 * (Next picture) Chemicals or chemistry.
 * Quote from alphachem?
  * Yes.
-* (Next picture)  Folder, "Microwave/Magnetron Expirements"
+* (Next picture)  Folder, "Microwave/Magnetron Experiments"
  * Yes.
 * Relating to that device, or actually collection of components, you found in the basement?
  * Yes.
@@ -321,17 +321,17 @@ Byron Trial Notes, Day 19 (Week 4)
  * Yes.
 * And there were papers related to it?
  * Yes. I remember in particular a electrical schematic...
-* You mentioned in your examination-of-cheif that you didn't find any documents related to the production of rockets, besides the letter from the CAR?
+* You mentioned in your examination-of-chief that you didn't find any documents related to the production of rockets, besides the letter from the CAR?
  * Yes.
 * The warrant didn't have you searching for rockets?
- * Yes. It was just an auxilliary thing we looked for as related to explosives...
-* The search was directed at finding things realting to explosvies?
+ * Yes. It was just an auxiliary thing we looked for as related to explosives...
+* The search was directed at finding things relating to explosives?
  * Yes.
 * In the folders, you didn't find anything related to the production of explosives.
  * Not in the books or documents.
-* You found a folder relating to experiments with the microwave, but nothing analagous for making explosives?
+* You found a folder relating to experiments with the microwave, but nothing analogous for making explosives?
  * No.
-* You didn't find any recipes for explosvies?
+* You didn't find any recipes for explosives?
  * No.
 
 (Break)
