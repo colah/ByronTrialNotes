@@ -299,7 +299,7 @@ Byron's Trial, Day 20 (Week 5)
 * Why?
  * It has the interesting ability that if you add something with alcohol groups there's a small induction time and they burn.
 * Has it been used in homemade explosives?
- * Yes. It can be used to chemically intiate the primary explosive. This is different from electrical igniter.
+ * Yes. It can be used to chemically initiate the primary explosive. This is different from electrical igniter.
  * This was used in the September 25th attack in 2009, the underwear bomber.
 * No metal involved?
  * Yes. There's no metal wires so it won't be picked up with standard security procedures.
@@ -429,10 +429,10 @@ Byron's Trial, Day 20 (Week 5)
 (Lunch)
 
 * The agreed statement of fact is already in evidence.
-* See pages 6 and 7. There was a purchase made of granular chlorine schock.
+* See pages 6 and 7. There was a purchase made of granular chlorine shock.
  * The pool shock, I haven't seen the bottle, but it is typically a hypochlorite...
 * Did you see it amongst the evidence?
- * No, but I haven't seen all the containers. THere are some behind the others that one can't see.
+ * No, but I haven't seen all the containers. There are some behind the others that one can't see.
 * What is the use?
  * To keep a pool clean.
 * You were aware of torrents associated with Mr. Sonne's computer.
