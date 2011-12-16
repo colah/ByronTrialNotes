@@ -523,7 +523,7 @@ Defense Crosses
  * No.
 * You can't answer the largest size of rocket one might use?
  * No.
-* Tne thousand feet?
+* Ten thousand feet?
  * A large one, maybe.
 * In terms amount of the energy, you'd need a lot of material.
  * I don't think so.
@@ -533,7 +533,7 @@ Defense Crosses
  * Yes. I'd note that an explosion is different from detonation. It a deflaration.
  * With explosives, you have a detonation.
  * Classic pipe bomb with black powder. It burns at less than supersonic speeds, but it still explodes.
-* Faster than teh speeds of sound?
+* Faster than the speeds of sound?
  * In that material.
 * There's a shock wave because it goes across the substance faster...
  * Yes.
@@ -647,7 +647,7 @@ Defense Crosses
 * How many batches would one have to do, given that lab equipment.
  * Quite a few... Could we got back to the pictures?
  * We have one liter beakers it seems on the left side. 
- * If you were courageous enough to make 200 grams at a time, that would be fifteen batches... A small batch would be fine grams.
+ * If you were courageous enough to make 200 grams at a time, that would be fifteen batches... A small batch would be five grams.
 * 200 grams is getting to a level that would be dangerous, for making it by hand... Where does it become more dangerous?
  * It depends on your experience, and your comfort.
 * What about you.

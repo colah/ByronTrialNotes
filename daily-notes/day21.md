@@ -34,7 +34,7 @@ Byron Trial Notes, Day 21 (Week 5)
   * Yes. I just use cold water.
 * To neutralize the acid?
   * Yes.
-* And in fact, any time you're working with an acid, it is a good safety precaution fo have a sodium bicarbonate solution on hand?
+* And in fact, any time you're working with an acid, it is a good safety precaution of have a sodium bicarbonate solution on hand?
  * Some people just use water...
 * Then you would purify it with methyl hydrate
 * And you wouldn't put it in type with a heating element?
@@ -598,13 +598,14 @@ Byron Trial Notes, Day 21 (Week 5)
 * You said you'd have to test them in designing efficient fuels...
  * Yes.
 * How would you do that?
- * I'd make it and take it to a 
+ * I'd make it and take it to a remote region to rest.
 * Would 500 grams be enough TATP to make a bomb?
  * Yes.
 * How much TATP do you need to be a bomb?
  * You'd need about 10 grams for a detonator.
  * ... If you were making a booster as well, 50 grams.
-* Can TATP go off if you 
+* Can TATP go off if you drop it?
+ * If it is in a container?
 * You said they could make three quarters kilograms of Amonium Nitrate... Is that a big explosion?
  * It could hurt people in a small space.
 * An explosive doesn't have to be for hurting people. It could be for blowing up a safe?
