@@ -1,4 +1,3 @@
-
 Byron Sonne's Trial, Day By Day
 ===============================
 
@@ -50,3 +49,15 @@ Week 4
 [Day 16 (Nov 30, 2011)](https://github.com/colah/ByronTrialNotes/blob/master/daily-notes/day16.md): _summary pending_
 
 [Day 17 (Dec 2, 2011)](https://github.com/colah/ByronTrialNotes/blob/master/daily-notes/day17.md): _summary pending_
+
+
+Week 5
+--------
+
+[Day 18 (Dec 12, 2011)](https://github.com/colah/ByronTrialNotes/blob/master/daily-notes/day18.md): _summary pending_
+
+[Day 19 (Dec 13, 2011)](https://github.com/colah/ByronTrialNotes/blob/master/daily-notes/day19.md): _summary pending_
+
+[Day 20 (Dec 14,2011)](https://github.com/colah/ByronTrialNotes/blob/master/daily-notes/day20.md): _summary pending_
+
+[Day 21 (Dec 15, 2011)](https://github.com/colah/ByronTrialNotes/blob/master/daily-notes/day21.md): _summary pending_
