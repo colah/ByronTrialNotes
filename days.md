@@ -58,6 +58,8 @@ Week 5
 
 [Day 19 (Dec 13, 2011)](https://github.com/colah/ByronTrialNotes/blob/master/daily-notes/day19.md): _summary pending_
 
-[Day 20 (Dec 14,2011)](https://github.com/colah/ByronTrialNotes/blob/master/daily-notes/day20.md): _summary pending_
+[Day 20 (Dec 14,2011)](https://github.com/colah/ByronTrialNotes/blob/master/daily-notes/day20.md): Dr. Anderson, the explosives expert, goes through examination-in-chief with the Crown. The Defense begins crossexamination.
 
-[Day 21 (Dec 15, 2011)](https://github.com/colah/ByronTrialNotes/blob/master/daily-notes/day21.md): _summary pending_
+[Day 21 (Dec 15, 2011)](https://github.com/colah/ByronTrialNotes/blob/master/daily-notes/day21.md): The Defense finishes its cross of Dr. Anderson. Byron's bail conditions are reduced to a curfew.
+
+*Byron's trial will begin again in March*
