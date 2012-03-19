@@ -62,4 +62,12 @@ Week 5
 
 [Day 21 (Dec 15, 2011)](https://github.com/colah/ByronTrialNotes/blob/master/daily-notes/day21.md): The Defense finishes its cross of Dr. Anderson. Byron's bail conditions are reduced to a curfew.
 
-*Byron's trial will begin again in March*
+**Byron's trial will begin again in March**
+
+Week 6
+--------
+
+[Day 22 (March 19, 2012)](https://github.com/colah/ByronTrialNotes/blob/master/daily-notes/day22.md): Ouellett testifies again, introducing the content of Byron's computers as evidence for the trial proper. Ouellett's lack of expertise on computers becomes problematic.
+
+
+
