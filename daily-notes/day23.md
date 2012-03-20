@@ -68,7 +68,7 @@ Twitter Continued
     * Judge: The question is whether you can say that they are responses
     * Prosecution: You don't know if that was in response to ...
     * Witness: That's fair.
-  * "@torontogoat, I would be very surprised if you can ... (legality of taking pictures)" -- Desping, Owen Jacobson of Toronto
+  * "@torontogoat, I would be very surprised if you can ... (legality of taking pictures)" -- Derspiny, Owen Jacobson of Toronto
   * "Expanded police presence at Allan gardens" -- G20 mobilize
   * "I just saw police arrest activists..." 
   * "Just saw them put a..." -- eightlines
@@ -137,7 +137,7 @@ Chats
 * Prosecution: What is the blue writing on the screen?
  * The harddrive report prepare by myself and the ...
 
-**Chat Between the_gaot and shaz**
+**Chat Between the_goat and shaz**
 
 * (Chat is between shaz and toronto_goat)
 * Judge: Difference between chats and tweets?
@@ -233,7 +233,7 @@ Chats
 * (seems to be talking about living sustainably/independently... talks about river, gardening...
 * ...
 * the_goat: there are some great places that about provincial parks and zones where develop up on the escarpment, it's amazing.
-*the_goat:  s/can/can't/
+* the_goat:  s/can/can't/
 * Witness: That's a correction. As someone who is part of the communication revolution, I'm familiar with these sort of things. There's ways of saying words without words in short form. It means "sorry, I've made a mistake, I mean can't instead of can". I've used this before, like smiley faces.
 * ...
 * A false flag isn't out of the question.
@@ -287,12 +287,12 @@ It's an order confirmation with the billing address for 58 Elderwood Drive.
 * Prosecution: What is the content of the order?
 * _Ragnar's Guide To Home and Recreational Use of High Explosives_
 * Is this before summit was announced?
-* I believe people knew it woudld be in Canada but not Toronto at that point.
+* I believe people knew it would be in Canada but not Toronto at that point.
 
 **Tickling the Dragon**
 
 * Sent to Hacklab from Byron
-* "I feel in a civily disobedient mood, but what's new about that, eh?"
+* "I feel in a civilly disobedient mood, but what's new about that, eh?"
 * Looking for software or hardware
 * Things that would piss people in gov't off...
 * ...
@@ -311,7 +311,7 @@ It's an order confirmation with the billing address for 58 Elderwood Drive.
 * committees: 
  * Education & outreach
  * media & communication
- * Logistics by leah Henderson,
+ * Logistics by Leah Henderson,
  * Action Farrah...
 * Who is Leah Henderson?
  * She was a person of interest before hand, arrested.
@@ -416,7 +416,7 @@ In quoted email, Byron talks about his project to gather information and help ke
 
 * Defense: Someone might need some context, it has a different subject in the information...
 * Meeting....
-* Communities are encouraged to disrupt capatalist institutions in their neighborhood on these days.
+* Communities are encouraged to disrupt capitalist institutions in their neighborhood on these days.
 * (4) Downtown to become a fortress for G20 summit
 * Prosecution: Do you recognize this article?
  * No.
@@ -446,7 +446,7 @@ In quoted email, Byron talks about his project to gather information and help ke
 (continuing earlier email)
 
 * 1:45-2:45: The balck block and diversity of tactics (Mandy Hiscocks and Leah Henderson)
-* Who is Mandy Hisckocks?
+* Who is Mandy Hiscocks?
  * Arrested, received sentence not as long as Henderson.
 
 **g8/g20mobilization June. Resist G8/G20 ...**
@@ -458,7 +458,7 @@ In quoted email, Byron talks about his project to gather information and help ke
 **[hacklab-discussion] G20/G8 monitoring & documentation**
 
 * It's a mass mailing list
-* We got G8/G20 meetings/riots coming to Toronto soon and I'm wondering if Hacklab mbmers might be in a position to help with things.
+* We got G8/G20 meetings/riots coming to Toronto soon and I'm wondering if Hacklab members might be in a position to help with things.
 * Not without risks, so no half-milers please.
 
 **Thank you for purchasing CARBON GRAPHITE FIBER STOCK EDM EMD BAR ROD 1'x24'**
@@ -500,7 +500,7 @@ Thank you for registering at www.surveilanceclub.ca...
 
 * Same topic as previous.
 
-**[G8/g20 mobilization] G8/G20 Annoucements, Events and Open Meetings for the week of June 3**
+**[G8/g20 mobilization] G8/G20 Announcements, Events and Open Meetings for the week of June 3**
 
 * (3) call for affinity groups.
  * We encourage people to form affinity groups; small groups of people with similar tactics and comfort levels.
@@ -531,4 +531,426 @@ Witness: I'll read as fast as I possible can...
 * Judge: we're already well past the original estimate
 * Defense: Bring him back on Thursday.
 * Judge: I find I can't trust council's judgment on time
+
+**Lunch**
+
+* Judge: I've been thinking about the fact that Oullett won't finish... 
+* Judge: Could corporal Lee's testimony replaced by an agreed statement after talking to him on the phone to save time?
+
+********
+
+**Convergence**
+
+from: comunity mobilize
+
+* Final page of the email. Filming and photography. 
+ * Recent court cases have ruled that police can demand video sources or information from journalists or on public websites.. for use in prosecution. Video-graphing or photographing a crime could be used against those in the video by police who may confiscate...
+
+**Fwd: "G2- Surveillance" Flickr group and "surveilance club" Flickr account"**
+
+* Kate tells Byron to pass on the forwarded message.
+* Email says he'd like it to go to everyone at the surveilance club (mentions Byron and Ewan).
+
+**Your order no. ... has been recieved**
+
+to Byron from info@fast-rescue.com
+
+* Order summary includes a large array of first aid materials. 
+
+**Re: FAK Order placed**
+
+From Norman.chu to Byron Sonne
+
+* In response to a lot 
+* Excellent, hopefully when it arrives you won't be in gitmo, although UPS does ship to APO adresses I think.
+* In response to Byron say that the FAK order has been shipped.
+* This was after Mr. Sonne's arrest?
+ * Yes.
+* Crown: That is all.
+* Defense: Are you relying on what Mr. Chu said, or just the email?
+ * Crown: The email, I guess.
+ * Judge: Why does it matter, it's a comment.
+ * Defense: The crown had another email without the prejudicial effect.
+ * Judge: It won't have a prejudicial effect.
+ * Defense: Perhaps but I'd like to hear it...
+ * Crown: Of course not. There was no nefarious intent, I was just including the full string.
+
+
+****
+**Defense is now crossing**
+****
+
+* You reviewed after some preparation by ...
+ * Yes.
+* As such, somethings had been bookmarked as of potential interest?
+ * Yes.
+* But you went through other things?
+ * Yes. But not everything.
+* And some of those files wouldn't have been comprehensible without some preparation?
+ * Yes.
+* And where you needed assistance for interpretation, ... helped you.
+ * Yes.
+* There were some files that represented the mail box?
+ * Yes.
+* And there may have been files representing folders in it?
+ * Maybe.
+* But there may have been some organization?
+ * Not as they were presented to me.
+* So you have a list of thousnads and thousands of email.
+ * I believe it was 25 thousand.
+* All of them?
+ * I started with the most recent and went backwards. After I went back to 2005 and didn't see anything relevant I stopped.
+* You looked at all the PDFs?
+ * Yes.
+* They were in a Documents folder?
+ * Yes.
+* And you could navigate them?
+ * I used a Windows application to do so...
+* They were all contained in a folder blsonne... ?
+ * Yes.
+* And that related to a certain user account?
+ * Yes. There were two users...
+* There were subfolders?
+ * Yes.
+* One where one stored Documents, one Pictures...
+ * Yes. 
+* Like My Documents on Windows.
+ * Yes.
+* And there were some folders where programs stored files while they were operating?
+ * ... Yes. Like xchat and firefox.
+* Folders where programs would store things and that a user wouldn't normally directly access?
+ * You'd need to talk to an expert.
+* You spent several weeks analyzing them?
+ * Yes.
+* When you were investigating the computer, were you aware of potential significance of things related rocketry?
+ * You mean hobby rockets?
+  * Yes.
+ * There was a card referring to it that we heard about early on?
+* If you had flagged something if it had to do with rocketry?
+ * I'd like to think so, but it wasn't my focus.
+* Did you have any attention to chemicals as they relate to rocketry.
+ * No. My experience is limited with...
+* Rockets were not significant to you with relation to chemicals?
+ * I think we have a difference in meaning of rocket. I think of it in the weapon form.
+* For example, are you prepared to say if there were any emails about amateur rocketry?
+ * I don't recall such a thing.
+* Are you saying there weren't?
+ * Don't remember everything I read?
+* Any chats?
+ * I don't remember any.
+* Any links?
+ * I don't remember any.
+
+* You gave some evidence of what goat stands for?
+ * Yes.
+* That was your personal belief?
+ * Yes.
+* You didn't see any suggestion of that meaning on the computer?
+ * Yes.
+* That was from a hockey context?
+ * Yes.
+* There were documents relating to lots of interests?
+ * Yes.
+* And there was no mention of hockey?
+ * No.
+* And there were lots of pictures of goats?
+ * yes.
+* And there was a subfolder in the pictures folder of goats?
+ * Yes.
+* And more int he subfolder called humor?
+ * I recall a humor folder, the contents of which were very humorous.
+* And there were some that were related to animals?
+ * Yes. I can't recall if there were any goats, though.
+* And in the flickr photos there was a goat picture titled "drunk goat"?
+ * I don't recall.
+
+News Feed
+---------
+
+* (opens file)
+* HD\Users\blsonne\Library\Pubsub\Feeds\...
+ * Is a file path?
+* There were a bunch of digits and letters a to f.
+ * Yes.
+* Are you faimilar with the hexadecimal number system?
+ * Hexa-what?
+* I'll assume no.
+* Then a \ and then more characters?
+* And then .xml. That is the type file?
+ * I wouldn't know.
+* And that before that was the filename and before that the subfolder?
+ * I couldn't say.
+* ...
+* If I was to suggest there 585 xml files...
+ * I would disagree?
+* And stories about the G20 were top stories at the time?
+ * Yes.
+* And, in fact, we see between category tags "top story"
+ * Yes.
+* The amonium nitrate, you were involved in that?
+ * Yes.
+* Someone purchased a large amount?
+ * I don't want to divulge too much information... But yes.
+* And the police put out a call for information?
+ * Yes.
+* Discussion of the cost of the summit was a popular topic of discussion?
+ * Yes.
+* Road closures were a top story at the time?
+ * Yes.
+* Again a top story?
+ * Yes.
+* And they all are labeled top stories and were, in your experience, top stories at the time?
+ * Yes.
+* Are you a familiar about clicking on your web browser and it bring up top news stories?
+ * Yes.
+* And you aren't in a position to say if this was ever read?
+ * Yes.
+* But you were aware that some programs will mark things like read, like an email program?
+ * Yes.
+
+Documents
+-----------
+
+* Turning to the documents
+* Would you agree there were a lot of subfolders?
+ * Yes.
+* Dealing with a wide range of topics?
+ * Yes.
+* (Hands around sheet)
+* Have you ever seen a list of folders of that nature?
+ * Yes. They were in the Documents folder.
+* And there were PDFs in each one?
+ * Yes.
+* There was an anti-Scientology folder?
+ * Yes.
+* And there were documents about the structure of the church of Scientology and documents critical of it?
+ * Yes.
+* A folder called arduino, do you recall what it was about?
+ * Yes.
+* Biking and the Don?
+ * Yes.
+* And there were documents in it that had to do with making trails and bridges
+ * ...
+* Blacksmithing?
+ * Yes.
+* With files on that?
+ * Yes.
+* CIA polygraphing and torture folder?
+ * Yes.
+* There was wide spread public interest and concern about that?
+ * Yes.
+* And there files in there on polygraphing and waterboarding?
+ * Yes.
+* And some people might call it waterboarding torture?
+ * Most would.
+* A CISSP folder?
+ * Yes.
+* CISSP being a designation he had?
+ * Yes.
+* eagle folder?
+ * Don't recall.
+* economics folder?
+ * Yes.
+* electronics, physics, reference articles... That last one was extensive with lots of subfolders?
+ * Yes.
+* Folder with relation to firearms?
+ * Yes.
+* Which contained a subfolder on PAL licenses?
+ * Yes.
+* Which contained documents on different types of firearms and modifications?
+ * Yes.
+* A health and medical file?
+ * Yes.
+* Lockpicking file?
+ * Yes. I understand Mr. Sonne had some expertise in this area.
+* Technical manual and military ones?
+ * Yes
+* Some of those were put on the thumb drive and in your report?
+ * Yes.
+
+**Canadian Military Files**
+
+* (Starts looking at document metadata)
+* File created 01/05/09
+* File last accessed 03/08/10
+* ...
+* I'm going to suggest that, apart for the first document, every document has a create data on 01/05/09 and times within about a minute.
+ * I'd agree with that.
+* And the last written dates also all occur on the same day?
+ * yes.
+* And the last accessed date are all with in a few hours.
+* Do you have any experience if whether, when you download files, that they all get created at the same time and last written when the downloading of that file is done.
+* Last access dates are all on the same date, within a minute.
+* And given the large amount of information, if one was to read them all within a minute, one wouldn't get much out of it?
+ * Yes.
+* Defense: I'm expecting to get agreement that this was caused by a program backing them up.
+* Prosecution: I'm willing to concede that.
+* Judge: Are you still maintaining the significance of the news articles?
+* Prosecution: Yes.
+
+**American Military Files**
+
+* Now, the American military files. Would you agree that there are many more?
+ * Yes.
+* Now, could you look over them?
+* Judge: Is this going to be essentially the same point?
+ * Yes.
+* With the exception of 6, the five or six hundred files were all created within a minute.
+ * (Finds an exceptional file)
+  * Yes, there are six exceptions.
+ * Most or all were last accessed at the same time.
+ * Most were created on 01/05/09 11:38am
+* Would you agree with my general proposition ...
+ * Yes
+* Judge: I don't know how one would download many files. You may wish to explore this.
+* Are you familiar with torrent files, where many files are simultaneously downloaded?
+ * Yes.
+* And they all share the last access day of 01/08/10?
+ * Yes.
+* Within 2 minutes?
+ * Yes.
+* With one exception of (file about gas) with was accessed in April...
+ * yes.
+* Now my friend, during examination in chief, my friend drew your attention to some files on bombs, rockets and incendiary devices from these. But there were a lot of other topics?
+ * There were many and they large.
+* Combat diving, fitness...
+ * Yes.
+* Is there any indicator of special interest in the ones my friend?
+ * No special importance.
+* Any indication of additional access?
+ * It looks like the last access was by a backup.
+
+* Crown concedes that last access was a backup. Comments on how, now, Oullett has a lot more knowledge...
+
+** Break **
+
+* If I can give some documents to 
+ * Map reading and land navigation
+ * Medical platoon leader handbook
+ * Dental service support
+ * Airfield design
+ * Scout dog training and deployment
+ * Military driving
+ * civil affair
+ * visual aircraft recognition.
+ * And lots more.
+   * Yes. All military training manuals. Many still use.
+ * But some are historical?
+  * yes.
+* Now there were other things in other folders?
+  * Yes.
+* MSDOS. That was an old operating system?
+ * Yes.
+* Presentation on security?
+ * Yes.
+* Private investigator documents?
+ * Yes.
+* Processing. Do you recall what sorts of files were in there?
+ * No.
+* Renewable energy? What was in there?
+ * More green energy sources?
+* Resume folder contained resumes?
+ * Yes.
+* Coding book examples contained documents related to computer programming?
+ * Yes.
+* speed test modem related to the peripheral?
+ * Yes.
+* 3 folders starting with TASK... Are you aware that when words are all in capital letters are often in acronym?
+ * Yes.
+* Do you know what TASK might stand for?
+ * No. I know what DEFCON is...
+* Toronto Area Security Klatch?
+ * Yes.
+* DEFCON is a conference that occurs on an annual?
+ * It's a security culture conference. It's held in Las Vegas, I believe. Especially on computer security.
+* Your honor, Agreed statement of fact referred to SoOnCon.
+* There were torrents on counter-surveillance. 
+ * Yes.
+* _RF Counter Surveillance_ file. It's organized like speaking notes might be organized?
+ * Yes.
+* There was a folder called Toronto Bylaw?
+ * Yes.
+* Documents 22 and 24 are from...
+* UAE blackberry spying update.
+* More code.
+* Vegas DEFCON drive. Do you recall its content?
+ * I recall it related to DEFCON.
+* Virtual Machine folder. 
+ * Yes.
+* Walking dead folder?
+ * Yes.
+* Do you recall what it was?
+ * Something related to the TV show?
+* Maybe graphic comics?
+ * Yes.
+
+* Firearms application.
+* Canadian restricted firearms safety course.
+* 416 area code instructors
+  * the names are those of firearm instructors.
+* Are you aware as to whether Mr. Sonne received a PAL license?
+ * I'm not aware.
+* Are you aware of a back ground check that is involved?
+ * I don't know the specifics of it.
+
+Calendar Entries
+-----------------
+
+* You've included a handful of calendar entries?
+ * Yes.
+* There were more?
+ * Yes.
+* There were events related to a group called hacklab?
+ * Yes.
+* There were emails for other community mobilization events. Mr. Sonne didn't have entries for those?
+ * No.
+* Were there upcoming entries?
+ * Yes. One for DEFCON.
+* If I was to suggest that one of the entries simply said "get to Vegas"...
+ * Maybe.
+* Lots of the entries related to hacklab related to science, computers and mathematics.
+ * Yes.
+* Do you recall if there was an entry in the calendar for the SoOnCon talk?
+ * Yes, there was. I think he gave a presentation.
+* An entry for presenting at TASK on RF counter surveillance.
+
+Unallocated Clusters
+-------------------
+
+* You were clear that you didn't understand some of the details.
+ * Yes.
+* Do you understand what an unallocated cluster is?
+ * I gave a laymen's explanation, but I am not an expert.
+* The first one seems to be a G8/G20 mobilization graphic?
+ * Yes.
+* Looks similar to what one might see on a webpage?
+ * Yes. I didn't say this because of an objection, but its the sort of thing one might see in a popup on a webpage, and it is possible it could remain imprinted in a computers path.
+* ...
+* Image of the fence. 
+* Did you see a copy of this elsewhere on the computer?
+ * I don't believe so.
+* Do you recall ...
+ * It's clear that the person taking this photo had a lot of photographic skill that one doesn't see in Mr. Sonne's photos. It might be from a magazine article.
+ * No offense to the accused intended.
+* Next photo, also from an interesting angle.
+ * Yes.
+* Next photo, some sill behind taking it?
+ * Yes.
+* Judge: Let's stay away from the skill of the photographer.
+* Do you recall seeing this photo elsewhere?
+ * Yes, I saw it in the Star, I believe.
+* Next, from a news source as well?
+ * Maybe.
+ * I never suggested that he took these...
+* Scottish Chemical Industries picture is related to this investigation?
+ * Yes.
+
+****
+
+* This would be a good time to break.
+* Judge: You can finish with Oullett tomorrow afternoon?
+ * Yes.
+* Judge: We will reconvene tomorrow at 2:15.
+
+
 
