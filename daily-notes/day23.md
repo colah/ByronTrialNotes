@@ -1,4 +1,4 @@
-Byron Trial, Day 22 (Week 6)
+Byron Trial, Day 23 (Week 6)
 ============================
 
 **Summary:**
