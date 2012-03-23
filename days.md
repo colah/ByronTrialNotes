@@ -69,5 +69,13 @@ Week 6
 
 [Day 22 (March 19, 2012)](https://github.com/colah/ByronTrialNotes/blob/master/daily-notes/day22.md): Ouellett testifies again, introducing the content of Byron's computers as evidence for the trial proper. Ouellett's lack of expertise on computers becomes problematic.
 
+[Day 23 (March 20, 2012)](https://github.com/colah/ByronTrialNotes/blob/master/daily-notes/day23.md): _summary pending_
+
+[Day 24 (March 21, 2012)](https://github.com/colah/ByronTrialNotes/blob/master/daily-notes/day24.md): _summary pending_
+
+[Day 25 (March 23, 2012)](https://github.com/colah/ByronTrialNotes/blob/master/daily-notes/day25.md): Agreed statement of fact not done, day ends after 30 minutes.
+
+
+
 
 
