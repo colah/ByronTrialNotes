@@ -87,7 +87,9 @@ Week 7
 
 [Day 26 (March 26, 2012)](https://github.com/colah/ByronTrialNotes/blob/master/daily-notes/day26.md): The Crown rests its case. Arguments about the admissibility of goat as an acronym for "Greatest of All Times" and the fact that Leah Henderson and Mandy Hiscocks plead guilty -- both found inadmissible, Judge says she doen't need to hear from the Defense. The Defense's first witness, Fredrick Supinski, begins his testimony, discussing the security industry, hacklab, 3D printers, his and Byron's shared rocketry hobby, and some excerpts from chat logs.
 
+[Day 27 (March 27, 2012)](https://github.com/colah/ByronTrialNotes/blob/master/daily-notes/day27.md): The defense finishes examination in chief of Fredrick Supinski and the Crown conducts its crossexamination. The Defense rests its case. Submissions are put off until Thursday.
 
+**Next Court Date: March 29th at 10:30!**
 
 
 

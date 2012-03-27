@@ -67,8 +67,8 @@ Byron Trial, Day 26 (Week 7)
 * ...
 * Judge (voice rising): What evidence of a connection is there?
 * Crown: He got emails from them. He responded to some of them. He followed them on twitter. He was providing pictures via Flickr and the g20report to them... 
-* Crown: The evidence is being brought forward to show the natures of these groups. They followed through on their trheats!
-* Judge: But they weren't found guilty of doing anything black block? Of activly doing something?
+* Crown: The evidence is being brought forward to show the natures of these groups. They followed through on their threats!
+* Judge: But they weren't found guilty of doing anything black block? Of actively doing something?
 * Crown: Yes.
 * Crown: You have evidence...
 * Judge: How do I know that their pleading guilty is relevant to the TCMN?
