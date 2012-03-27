@@ -54,6 +54,10 @@ Byron Trial, Day 22 (Week 6)
  * A manual on counter-intelligence... How to not discuss or discuss on tact... It's a training manual for activists that want to lash out at government.
 * Did you ever come across it?
  * Only paths, we were never able to download it ourselves.
+
+Photos
+------
+
 * Let's move onto the data taken from the computer. You went through the different areas... Can you first go to the photo area?
   * photos/62 (a picture of a camera)
     * (Except the numbers are shifted up one here. Your Honor will not be working with those later.)
@@ -126,6 +130,9 @@ Byron Trial, Day 22 (Week 6)
     * board with holes in it
   * Defense: all of this is already in exhibits. We will prepare a PDF with specifically the relevant things. Why make this an exhibit?
 
+Harddrive status
+-----------------
+
 * Is the harddrive on record for the trial? 
  * Judge: It was a blended void dire...
  * ...
@@ -135,6 +142,9 @@ Byron Trial, Day 22 (Week 6)
  * ...
  * Blended because we weren't going to call things twice, not necessarily wanting to have everything on the record for the rial proper.
  * Remark as letter exhibits?
+
+Calendar Entries
+----------------
 
 * Next area, calendar entries. What were those?
  * Entries in what ever email program Mr. Sonne was using. Like we use Microsoft Outlook.
@@ -189,6 +199,8 @@ Byron Trial, Day 22 (Week 6)
 
 
 
+Goat as an Acronym
+-----------------
 
 * Pictures of goats
 * You are of course familiar with Mr. Sonne's goat nickname. You said something about it in previous testimony.
@@ -207,6 +219,9 @@ Byron Trial, Day 22 (Week 6)
 * Witness: Goat is an acronym for "greatest of all time", particularly in hockey. The acronym goat is a self-prophecy.
 * Prosecution: It's an ego thing.
 * Witness: Yet.
+
+XML (News Feeds)
+---------------
 
 * Let's move to the XML section.
 * I'm going to put you on the spot. What does XML mean?
@@ -231,6 +246,9 @@ Byron Trial, Day 22 (Week 6)
 * Anarchists trying to distance from firebombing (old).
 * Of the news feeds on the computer, these are the only G20/G8 ones you found?
  * Or anarchist ones.
+
+SQL File (Twitter)
+------------------
 
 * Prosecution: About SQL. It's an Excell program. For twitter...
 * (Opens twitter log in Excell)
@@ -275,7 +293,7 @@ Byron Trial, Day 22 (Week 6)
 * Judge: You should help the crown get full context.
 * Defense: We need to hear the testimony of an expert witness on the content of these files and whether they contain everything that is relevant.
 * Defense: I anticipate the evidence will be, people can't follow a hashtag, they can follow an individual or search for a hashtag... Those will not all be on this computer, and it may be impossible to reconstruct at time.
-* Judge: Would that make it unadmissible?
+* Judge: Would that make it inadmissible?
 * Defense: Mr. Sonne's tweets are already in the record. But the others being provided may not be a full record and their relevance...
 * Prosecution: I'm a bit concerned as the Crown is put the evidence that was found by this police as a complete picture. I have mountains less evidence than my friend. I'm here to say this was on Mr. Sonne's computer. I'm trying to put in two sections instead of 46000 lines. There's no disagreement about putting questions to the expert, both the question and the answer will go over my head! I'm not trying to obstruct or... This is getting repetitive and is offensive to the Crown.
 * Judge: Mr. Copeland, if not all of the evidence still exists, I don't think that tosses everything out.

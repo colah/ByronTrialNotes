@@ -69,11 +69,15 @@ Week 5
 Week 6
 --------
 
-[Day 22 (March 19, 2012)](https://github.com/colah/ByronTrialNotes/blob/master/daily-notes/day22.md): Ouellett testifies again, introducing the content of Byron's computers as evidence for the trial proper. Ouellett's lack of expertise on computers becomes problematic.
+**Ouellett testifies, introducing Byron's computers as evidence for the trial proper.**
 
-[Day 23 (March 20, 2012)](https://github.com/colah/ByronTrialNotes/blob/master/daily-notes/day23.md): _summary pending_
+[Day 22 (March 19, 2012)](https://github.com/colah/ByronTrialNotes/blob/master/daily-notes/day22.md): Ouellett testifies again, introducing the content of Byron's computers as evidence for the trial proper. Crown examines Ouellett, touching on Photos, Calendar Entries, Goat's meaning as an acronym, XML news feeds, and a Twitter SQL file.
 
-[Day 24 (March 21, 2012)](https://github.com/colah/ByronTrialNotes/blob/master/daily-notes/day24.md): _summary pending_
+[Day 23 (March 20, 2012)](https://github.com/colah/ByronTrialNotes/blob/master/daily-notes/day23.md): Crown continues the examination of Ouellett, discussing: Twitter, Unallocated space on the harddrive, IRC chat logs, and emails. Then the Defense begins crossing, topics including: news feeds, documents, calendar entries, and unallocated clusters.
+
+[Day 24 (March 21, 2012)](https://github.com/colah/ByronTrialNotes/blob/master/daily-notes/day24.md): Defense continues crossing. More on Calendar entries, then pictures, the Twitter SQL File, Torrents, Bookmarks, and Emails. Crown and Defense need to worked on agreed statement, so we adjourn until Friday.
+
+_Defense and Crown work on Agreed Statement of Fact_
 
 [Day 25 (March 23, 2012)](https://github.com/colah/ByronTrialNotes/blob/master/daily-notes/day25.md): Agreed statement of fact not done, day ends after 30 minutes.
 
@@ -81,7 +85,7 @@ Week 6
 Week 7
 -------
 
-[Day 26 (March 26, 2012)](https://github.com/colah/ByronTrialNotes/blob/master/daily-notes/day26.md): The Crown rests its case. Arguments about the admissibility of goat as an acronym for "Greatest of All Times" and the fact that Leah Henderson and Mandy Hiscocks plead guilty -- both found inadmissible, Judge says she doen't need to hear from the Defense. The the Defense's first witness, Fredrick Supinski, beings his testimony, discussing the security industry, hacklab, 3D printers, his and Byron's shared rocketry hobby, and some excerpts from chat logs.
+[Day 26 (March 26, 2012)](https://github.com/colah/ByronTrialNotes/blob/master/daily-notes/day26.md): The Crown rests its case. Arguments about the admissibility of goat as an acronym for "Greatest of All Times" and the fact that Leah Henderson and Mandy Hiscocks plead guilty -- both found inadmissible, Judge says she doen't need to hear from the Defense. The Defense's first witness, Fredrick Supinski, begins his testimony, discussing the security industry, hacklab, 3D printers, his and Byron's shared rocketry hobby, and some excerpts from chat logs.
 
 
 
