@@ -17,6 +17,8 @@ Week 1
 Week 2
 --------
 
+**The pre-trial voir dire continues. The Judge dismisses the motion to quash the warrant, but then steps back. Crown begins several witnesses, and we watch videos of several interrogations of Byron.**
+
 [Day 5 (Nov 14, 2011)](https://github.com/colah/ByronTrialNotes/blob/master/daily-notes/day5.md): Judge dismisses the motion regarding the warrant on the grounds that she found one charge that survived. From there, a brief legal debate ensued, leaving it clear that some party was confused. Around an hour in, court was adjourned until the next day.
 
 [Day 6 (Nov 15, 2011)](https://github.com/colah/ByronTrialNotes/blob/master/daily-notes/day6.md): Judge states that a misunderstanding occurred and gives more details on her ruling. She is open to argument on its implications. Defense outlines its position. Court is adjourned early.
@@ -74,6 +76,12 @@ Week 6
 [Day 24 (March 21, 2012)](https://github.com/colah/ByronTrialNotes/blob/master/daily-notes/day24.md): _summary pending_
 
 [Day 25 (March 23, 2012)](https://github.com/colah/ByronTrialNotes/blob/master/daily-notes/day25.md): Agreed statement of fact not done, day ends after 30 minutes.
+
+
+Week 7
+-------
+
+[Day 26 (March 26, 2012)](https://github.com/colah/ByronTrialNotes/blob/master/daily-notes/day26.md): The Crown rests its case. Arguments about the admissibility of goat as an acronym for "Greatest of All Times" and the fact that Leah Henderson and Mandy Hiscocks plead guilty -- both found inadmissible, Judge says she doen't need to hear from the Defense. The the Defense's first witness, Fredrick Supinski, beings his testimony, discussing the security industry, hacklab, 3D printers, his and Byron's shared rocketry hobby, and some excerpts from chat logs.
 
 
 

@@ -1,7 +1,7 @@
 Byron Trial, Day 26 (Week 7)
 ============================
 
-**Summary:**
+**Summary:** The Crown rests its case. Arguments about the admissibility of goat as an acronym for "Greatest of All Times" and the fact that Leah Henderson and Mandy Hiscocks plead guilty -- both found inadmissible, Judge says she doen't need to hear from the Defense. The the Defense's first witness, Fredrick Supinski, beings his testimony, discussing the security industry, hacklab, 3D printers, his and Byron's shared rocketry hobby, and some excerpts from chat logs.
 
 ***************
 
