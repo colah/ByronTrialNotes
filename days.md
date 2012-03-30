@@ -92,4 +92,6 @@ Week 7
 **Next Court Date: March 29th at 10:30!**
 
 
+[Day 28 (March 29, 2011)](https://github.com/colah/ByronTrialNotes/blob/master/daily-notes/day28.md): _summary pending_
 
+[Day 29 (March 30, 2011)](https://github.com/colah/ByronTrialNotes/blob/master/daily-notes/day29.md): _summary pending_
