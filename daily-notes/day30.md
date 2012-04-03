@@ -311,3 +311,280 @@ Byron Trial, Day 30 (Week 8)
 * Subject to completigng that issue, we'll deal with the cousncelling charge.
 
 **Lunch**
+
+* Crown: I've had discussions with Mr. DiLuca, and per 601(3)(b) do amment count 3 to read as "... did unlawfully posses explosive substances to wit urea nitrate and or hexamine dinirate (HDN) and or the ingredients to make them..
+* I am further seaking "He did unlawfully have explosive substances, to wit..." leave it out, except remove the ANFO part.
+* Judge: No mention of fuel?
+* No. For making oxidizer based explosives.
+* Judge: What is the defense's position?
+* .. (can't hear)
+* Judge: I can certainly see why you'd want it clarified.
+* Especially with mens rea.
+* Judge: But there doesn't seem to have been prejudic to the defense.
+* It would have unfolded the same way.
+* Judge: The motion is granted.
+
+* Defense: One final matter. If your honor finds that making rocket fuel falls under making explosives, I think your honor will need to consider the issue of abandonment and the most recent posts we've seen. To the extent he was making chlorate for rocket fuel, it was stopped or put on hold. That's way down the chain of reasoning, but I wanted to mention it.
+
+* Now, regarding counscelling mischief not commited.
+* The tweets are in the ASF. Three are on June 18, two on June 19.
+* Judge: Does the counscelling includ the cable in joint photo? Can you clarify, Ms. Nadeau?
+* Just the fence. The others add context.
+* In terms of the actis rea, we knwo from the case law, especailly with Hamilton. "Actively in use or advocate and do not merely describe the comission of the Defense."
+* The Supreme court split on the mens rea, but the agreed on the actis rea.
+* Hamilton builds on Sharp, which was provided to the court. And if I can take you to a couple paragraphs...
+* Par 56, 
+* Written child poronography, at the time, required encouragng...
+* Against material which suggests that sex should be persued with children.
+* Effectivly tries to carve out descriptions of an offense versus encouraging.
+* So, the question becomes did Mr. Sonne just describe how or tell people that they should?
+* One describing how an offense can occur is not criminal.
+* Within which the actis rea needs to occur.
+* It's meant to draw a line in the sand.
+* And there is a problem with the evidentiary basis here. We do not know if these are originating tweets or responding tweets. 
+* This is an important issues. Looking at Ferris and Hunter, it is very important to see an accused's statement.
+* We don't know what the question is, if there is one. And it would be for the Crown to provide it to you.
+* It's clear, looking at the tweets, that there are elements of a discussion.
+* Tweets are limited in context because you only have a certain number of characters. You can't tweet a whole paragraph.
+* We can start with the first one, tweet 25. "These would be handy for scaling G20 fences, the ones I have at home... #g20report" That tweet would have gone to #g20report and anyone following Byron. We don't know if this was part of a discussion about the fence. Certainly, it was a topic of public discussion."
+* Judge: Was there anything on hacklab?
+* ...
+* 2 minutes later, cheap fabricating... Could be a response to a question.
+* Because the next one is 16 seconds later, we might guess its a conintuation. But between 25 and 24 there may be a question.
+* I'm not sure this is a description of an offense. It's pointing out a flaw in security which has a different intent. But how does that become active inducement our conselling?
+* June 19, 2010. "Don't forget design flaw in most G20 fence..." Do we know if that is a response to someone else pointing out a security flaw, or a question, or who knows what. It almost strikes one as being part of a dialouge.
+* Next "See what I mean? Tiny holes." with a link to a picture of the fence.
+* A tweet "@3ric: ... " is certainly a response.
+* How wever you decide that, you have to decide if this is just a description or an ecouragement.
+* You have the evidence of Mr. Supinski that if you find a flaw you put it out there. You might not put the password out there...
+* He said it depends on the case.
+* Despite the fact that Mr. Supinski wouldn't point out specific things...
+* And pointing out you can thread a bult is not giving out a password. And in fact, it is almost ironic that such a hight tech fence...
+* It doesn't really describe how to pull it down, just that you could get a grip.
+* The caption on the Flickr photos. Photo of two treesteps. "Treesteps for climbing fences or getting a grip to pull them down."
+* It is likely that relates to the ...
+* Even assuming he's saying that and the context is correct. He's saying, at very worst, "here's how you can do ..."
+* Judge: Earlier you were saying that this isn't a description of...
+* I'm responding to the Crown..
+* Judge: I understand they don't know anything more...
+* Judge: And the context goes to the actis rea?
+* Yes, we need to asses whether they...
+* Nothing less than a concious disregard ... either intended that the offense be comitted or know that they're likely to...
+* Judge: It seems to me that step 1 is do these tweets describe the offense. I think there's a good argument that they do. I don't see how the context would matter here.
+* Judge: Then I need to go to the second part, the counscelling part, and that's where context matters.
+* It could even fall on the first...
+* Judge: I can certainly see how the context matters for mens rea.
+* Judge: I'm having trouble seeing how the context matters for part 1.
+* It theoretically can. Factually here, the tweets can... He killed her
+* Judge: That's an admission though. I can't see how context matters to whether...
+* Judge: If the tweets don't get to the level of advocating, that's a problem and the lack of context is important.
+* If there's already a discussion about ...
+* On the issue of active inducement and encouragement, context is important.
+* Judge: Beyond describing the offense, I don't see any more... I don't see any active encouragement. You're saying that's part of the actis rea...
+* And you have the back drop of this being a highlighted security feature of the fence.
+* In Hamilton there's language encouraging, "think of the life style", etc. 
+* I accept that the active inducement can be implicit.
+* A justice refers to the advertising. A bunch of good looking people drink bear...
+* But Mr. Sonne lacks the lanuage... 
+* No positive comments or language.
+* In some contexts, you might be able to infer...
+* It's public, and on that matter, Jeffers. Mr. Jerffers put up posters about killing his city counselor. He was convicted and over turn. One thing that the court identified was that he was easily identified, so it seems like a strange thing to advocate murder. 
+* Judge: But around the G20 there was lots of criticism. It might not be so socially unaccaptable?
+* It's a different context.
+* ...
+* It seems to fall far short of Jeffers, even.
+* There's no context suggesting Mr. Sonne was trying to get people to disrupt...
+* To the extent Mr. Sonne is involved in G20 stuff, he's a *ringleader* or something like that, where he might be encouraging 
+* Subject to any questions, those are my submissions.
+
+**Crown**
+* The Hamilton case refered to recklesness. He's using the g20report hashtag. He follows g20mobilize. The Toronto Community Mobilize Group. You've seen their mail outs. They were a group intent on causing chaos on the G20. This isn't the surveilance club. Were it, the Crown would likely not be persuing this.
+* It's not a passing comment, he's posting pictures.
+* Talks about 151 front street. 
+* Talks about design flaw.
+* The implicitation is clear.
+* And if it wasn't he posts the security culture pamphlet and tells everyonet of practice good security culture.
+* Judge: Do we have the pamphlet?
+* Yes. It's a pamphlet designed to help people avoid detection of their criminal activity.
+* He's persuading and encouraging.
+* Judge: You're inferring... We don't have all the tweets.
+* Crown: ...
+* Judge: We don't have alll the tweets. I don't see anything in the tweets per se... They describe how to... 
+* Judge: I don't see anything...
+* It's a public forum, but it is a targeted group.
+* If it was #securityflaws, this would be different. This is to a group that is targeting to reak havock.
+* Judge: That could go to the mens rea. But... on the actis rea, there needs to be active inducement.
+* But the cases are clear... And the inducement needs to be taken in context. He's talking about security culture. He's not going to say anything that, from his perpsective, is incriminating.
+* If he said "I hope the people inside are safe, there..." 
+* Judge: You're saying that because I don't know everything, I should infer...
+* Unless Mr. DiLuca can suggest an innocent conversation we might be seeing.
+* Judge: For the first part... But the second part, encouragement, needs context.
+* Judge: You're saying that, looking at the context, he must have known he would encourage people.
+* And, further, that it is the only reasonable inference.
+* Judge: But there's no comments actively encouraging.
+* And there wouldn't be. He's advocating security culture.
+* Judge: If these tweets are part of the conversation identifying design flaw in the fence, how would that be counscelling?
+* It wouldn't.
+* Judge: So if there is a reasonable inference that there was a conversation going on invovling identifying desing flaws and nothing more.
+* Yes.
+* Judge: The part that disturbs me is that things are missing.
+* Judge: I agree that, in this context and the G20, this was an irresponsible to do. But I'm not just trying to establish...
+* This is a guy who was going around posting pictures of police and labeling them "stationary bacon"
+* Judge: I don't disagree that that is one inference. The trouble is that it is not the only one.
+* Judge: I don't know that the offence was made out...
+* ...
+* We don't know who Kate Milbery is, besides the fact that there is someone who calls themselves Kate Milbery and lists credentials. Mr. Sonne could have legitimatly be interested in her thesis... 
+* If Mr. Sonne was interested solely interested in teh security aspect of her email... Why is he mentioning this security pamphlet?
+* For all we know, this Kate Milbery could be an activist.
+* Why would he keep stuff?
+* The purposefully raising flags is an elegenat argument, but it just isn't born out on the facts.
+* The cold packs, which is the amonium nitrate and one gets the impression from Dr. Anderson is the scariest.Your honoro has seen the vast number of prills. The cold packs weren't all purchased on the same day, so they weren't raising flags.
+* It doesn't bare out on the Hexamine either.
+* Judge: So what you're saying is that cold packs weren't purchased in a way that would raise flags?
+* Yes... (talks about numbers)	
+* Judge: Hardly what's going to raise flags.
+* The Hexamine tablets are the same argument. Four packets were bought on January 29th, and less the other. Your honor has seen the number.
+* Again, this is not something that would raise flags. If you were trying to raise flags, you would buy all of them at the same place and on the same day.
+* Judge: But the Hexamine is found with the camping equipment and would be found in Canadian Tire.
+* Sure. But it was bought in *Jaunary* and we have no record...
+* Judge: I don't know that I can draw that inference.
+* I would encourage you to review the evidence of officer Albright.
+* He didn't think they were in the camping equipment, but beside it, beside the other shelf and the bench...
+* Why would you store them water tight at you home? If you were taking them camping...
+* Judge: Maybe he was getting ready for the camping season. Maybe...
+* Why not use a zip lock bag?
+* Judge: Maybe, but I need to establish that there is not another reference.
+* I'd suggest it is not a coincidence that it is in the same jars as the...
+* Judge: ...
+* Now regarding Mr. Sonne's statement, coincidentally not under oath...
+* He's clearly speaking for his own interest.
+* He's not terribly surprised when he was arrested.
+* And if you're trying to get arrested, why don't you have a failsafe plan? Why don't you have a note that you've already written? He isn't worried at first, but he gets worried...
+* When he says that the candle aren't candles, but he doesn't say what they are.
+* Judge: But there's nothing wrong...
+* Judge: He knows his rights...
+* ...
+* He was being fairly careful with what he said. 
+* Judge: The Defense is clearly rellying on this statement, when it wasn't given under oath, no cross. I understand that.
+* Judge: But you're doing the same thing. The tweets or the emails...
+* ...
+* You honor knows that he's not trying to...
+* He's not...
+* He shuts down when Bui asks him about...
+* Judge: I understand that. If Mr. Sonne had testified, this would be different.
+* In the course of this trial, you have heard a vast amount of evidence.
+* Mr. Sonne was asked about the computer.
+* It's incomplete.
+* This whole presentation theory. This is based on his countersurveilance, which isn't on anything as serious as bombs.
+* We have no notes about a presentation. No evidence from Mr. Supinski.
+* ...
+* If you "to tie the explosives to tightly into anything to do with the G20 it's really a distraction."
+* The suggestion by Mr. DiLuca... 
+* Nothing to suggest that there is a presenatation regarding the gather of explosiive precursors.
+* That is something that would need evidence, whether from Mr. Sonne or someone like Kate Milbery.
+* Judge: Didn't detective Bui ask about...
+* Judge: let's suppose there is nothing in his statement... You're not suggesting that, because Mr. Sonne didn't testify I can't find that inference?
+* Not because of that, but because there is no evidence.
+* Judge: Obviously, there could have been more evidence. But the onus is on the Crwon to prove.
+* Judge: What Mr. DiLuca has done is using the same evidence.
+* The defense is putting forward two theories. There's the innocent explanation of making rocket fuel, and also the theory that Mr. Sonne was working on a presenation.
+* The presentation theory is complete speculation
+* Because you're putting together a presentation, you want to document... And you also want to protect yourself. Because if you tickle the Dragon, it's coming after you and you want to cover your own behind.
+* That could very well be that the scope is what he was talking about with Kate Milbery.
+* Or the sketchy torrents.
+* None of that is explosive chemicals.
+* Judge:
+ * Count 1 theres' the issue with the acetone
+ * Count 2, there's the draino and so intent is more important.
+ * Count 3, there's the chlorate, which has the rocket fuel.
+ * Count 4, amonium nitrate is for his garden.
+* Crown: Yes. He's getting it for garden. (Crown laughs) He gets it in march and doesn't use its June and he hasn't use it.
+* Potassium chlorate
+* Judge: It would appear that the potassium chlorate can used for both explosives and and propellants.
+* Of course if you're making explosives, he knows the innocent explanations.
+* Judge: The point that Mr. diLuca made to me ath made some sense is that there is a different between making Potassium Chlorate and making the rocket engine and that is different. Whether that is factually the case is different...
+* Judge: If I find that it is plausible that he was making rockets.... Is that still making explosives?
+* He was making it before he was interested in rocketry.
+* Judge: Anything beyond...
+* Judge: Is there any case law? Obviously, WD is engaged.
+
+**Break**
+
+* Judge: I don't want to rush the last bit. If you want to provide me any further references...
+* Now, the rockets they got are not potassium chlorate.
+* And I take issue with my friend saying that Dr. Anderson is classicaly a propellant.
+* Judge: A rocket is not normally considered an explosive device.
+* ..
+* Judge: To be clear. If I were to find a reasonable inference that what Mr. Sonne did was to make rocket fuel, would that be an explosive device?
+* Yes...
+* Judge: ...
+* Judge: Potassium chlorate, combined with fuel, can be turned into an explosive device... It could be the one that sets off the device.
+* ...
+* If your honor finds that it was only being made...
+* Judge: I don't think that's the onus. You need to establish...
+* ...
+* Judge: So you conceed that a rocket is not an explosive device?
+* Yes.
+* Judge: If I find Mr. Sonne was...
+* No.
+* Mr. Sonne was clearly well versed in the criminal code.
+* ...
+* In any event, he's going to make potassium chlorate.
+* It's only later that there's any discussion of rockets.
+* Lots of links to farming in the bookmarks. But those were from much earlier. Nothing added to that after November.
+* One of the problems with the whole rocket cover is....
+* Judge: Why would you need a cover if you didn't do it in a pulic forum.
+* In some point in march or april...
+* It seems quite clear that in June, his obssession with the G20, he is certainly under another microscope. He now needs a cover.
+* ...
+* Judge: Why do everything under his name.
+* Well, he only does that for some things.
+* He tries to get it on a bunch of things.
+* He thought he was raising flags by getting quotes. Why go the further step of actually buying them and keeping them. There's massive holes.
+* He doesn't publicly mention his large potassium chlorate device.
+* He joins CAR and NAPAS and says he's going to hook up with someone with the right license. He does go to CAR...
+* The response from...
+* By law... engines are explosives just as fireworks are explosives.
+* You have to consider abandonment, my friend says. He found out on June 8th and on June 22nd it was still going.
+* Judge: How do I know that it was on going?
+* Well, it was all hooked up. And Dr. Anderson...
+* Judge: So he was able to say that it was on going?
+* That was my understanding of his evidence.
+* My friend indicates that you wouldn't want smoke or colors with a bomb, but sometimes you want bombs to be discrete and sometmes you don't.
+* One document is unconventional warfair. Information about intiators which include potassium permanganate.
+* Information on improvised string fuses, aluminum powder.
+* A number of things you'll see that match things in Ragner's guide.
+* Document 394... 
+* Information on magazines, not in the common use of the word I think, about storage of explosive substances.
+* Crossreference that with the chat.
+* Potassium chlorate... couldn't set it up.
+* Storage magazine in my backyard.
+* This is clear reason to believe Mr. Sonne had read the military documents.
+* Rocketry doesn't come on the radar until June.
+* These interests are just small devaitions from the consistent interest in explosives.
+* I think I've addressed everything, but...
+
+**Defense**
+
+* Judge: Is there anything else about tickling the dragon...?
+* At the end of the Kate Milbery email, he signs off, I'd be happy to talks about presentations. He refers to chemicals he's bought earlier.
+* In his interview with Bui he talks about wanting to write about these things, to do a presenation... to do a presenation at TASK.
+* The calendar entries suggest another presentation, and he also did a presenation at SoOnCon.
+* His comments everywhere indicates...
+* Judge: ...
+* Part of his presenation may have been what he was able to do without raising flags. And the fact that he was able to do things without raising flags doesn't mean he wasn't trying to.
+* You're not required to be satisfied that this was the case, just have doubts raised.
+* Regarding the potassium chlorate... Dr. Andrson says it was Mostly chloride. That would suggest that it is already done or about to do another. Completely consistent with these chats.
+
+* Judge: Anything else?
+* No.
+* Judge: I have next week to work on this...
+* Judge: What I'm prepared to do is to put everything the week after next week. But if I need to put it off further...
+* What I would like to do is prepare...
+* Crown: I will leave it 
+* (scheduling discussion)
+* Monday the 23rd?
+* Judge: That would give me more time 
+* ...
+* Judge: 10am on the 23rd.
+* Judge: I'd like to thank everyone for their assistance and I'll see you on the 23rd.
