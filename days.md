@@ -89,9 +89,15 @@ Week 7
 
 [Day 27 (March 27, 2012)](https://github.com/colah/ByronTrialNotes/blob/master/daily-notes/day27.md): The defense finishes examination in chief of Fredrick Supinski and the Crown conducts its crossexamination. The Defense rests its case. Submissions are put off until Thursday.
 
-**Next Court Date: March 29th at 10:30!**
+[Day 28 (March 29, 2012)](https://github.com/colah/ByronTrialNotes/blob/master/daily-notes/day28.md): Crown begins submissions.
+
+[Day 29 (March 30, 2012)](https://github.com/colah/ByronTrialNotes/blob/master/daily-notes/day29.md): Crown finishes submissions, Defense begins.
+
+Week 8
+-------
+
+[Day 30 (April 2, 2012)](https://github.com/colah/ByronTrialNotes/blob/master/daily-notes/day30.md): Defense finishes submissions, Crown rebuttal, Defense surrebuttal.
+
+**Trial over; Verdict on April 23rd.**
 
 
-[Day 28 (March 29, 2011)](https://github.com/colah/ByronTrialNotes/blob/master/daily-notes/day28.md): _summary pending_
-
-[Day 29 (March 30, 2011)](https://github.com/colah/ByronTrialNotes/blob/master/daily-notes/day29.md): _summary pending_
