@@ -398,6 +398,7 @@ Byron Trial, Day 30 (Week 8)
 * Subject to any questions, those are my submissions.
 
 **Crown**
+
 * The Hamilton case referred to recklessness. He's using the g20report hashtag. He follows g20mobilize. The Toronto Community Mobilize Group. You've seen their mail outs. They were a group intent on causing chaos on the G20. This isn't the surveilance club. Were it, the Crown would likely not be pursuing this.
 * It's not a passing comment, he's posting pictures.
 * Talks about 151 front street. 
@@ -533,7 +534,7 @@ Byron Trial, Day 30 (Week 8)
 * It's only later that there's any discussion of rockets.
 * Lots of links to farming in the bookmarks. But those were from much earlier. Nothing added to that after November.
 * One of the problems with the whole rocket cover is....
-* Judge: Why would you need a cover if you didn't do it in a pulic forum.
+* Judge: Why would you need a cover if you didn't do it in a public forum.
 * In some point in March or April...
 * It seems quite clear that in June, his obsession with the G20, he is certainly under another microscope. He now needs a cover.
 * ...
