@@ -21,7 +21,7 @@ Byron came to the attention of the Police on June 15th as a"suspicious male" fil
 What's Been Happening in the Trial?
 -----------------------------------
 
-Byron's trial is over and we are waiting for a verdict, expected on May 17 or 18 (postponed from April 23rd). You can see what happened by checking out the [day by day description](https://github.com/colah/ByronTrialNotes/blob/master/days.md) of Byron's trial.
+Byron's trial is over and we are waiting for a verdict, expected on May 15 (postponed from April 23rd). You can see what happened by checking out the [day by day description](https://github.com/colah/ByronTrialNotes/blob/master/days.md) of Byron's trial.
 
 Regarding the Notes
 -------------------
