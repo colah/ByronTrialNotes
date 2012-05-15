@@ -23,7 +23,7 @@ What's Been Happening in the Trial?
 
 **Byron has been found innocent on all counts!!!**
 
-You can read the [verdict](shell.hacklab.to/~colah/Verdict.pdf) (it will be on github as soon as I have an OCR/nicer copy). The verdict was made on the 15th. The Crown has 30 days to appeal.
+You can read the [verdict](http://shell.hacklab.to/~colah/Verdict.pdf) (it will be on github as soon as I have an OCR/nicer copy). The verdict was made on the 15th. The Crown has 30 days to appeal.
 
 Regarding the Notes
 -------------------
